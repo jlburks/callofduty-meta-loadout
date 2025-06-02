@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import { useState } from "react";
-import weapons from "@/data/warzone_weapons.json";
+import weapons from "../data/warzone_weapons.json";
 
 const weaponTypes = [
   "Assault Rifle",
