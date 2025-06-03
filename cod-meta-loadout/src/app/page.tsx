@@ -24,7 +24,8 @@ export default function Home() {
   return (
     <div className="flex flex-col min-h-screen font-[family-name:var(--font-geist-sans)]">
       {/* Header */}
-      <header className="relative h-64 w-full flex items-center justify-center text-white text-4xl font-bold shadow-lg">
+      <header className="relative h-40 w-full flex items-center justify-center text-white text-4xl font-bold shadow-lg">
+
         <Image
           src="/call-of-duty-warzone-4k-kzetz7h7t75073ye.jpg"
           alt="Cool header effect"
@@ -36,7 +37,7 @@ export default function Home() {
 
       {/* Navbar */}
       <nav className="bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 shadow-md sticky top-0 z-10">
-        <ul className="flex flex-wrap justify-center gap-4 p-4 text-lg font-medium text-white">
+        <ul className="flex whitespace-nowrap overflow-x-auto no-scrollbar justify-start sm:justify-center gap-4 p-4 text-lg font-medium text-white">
           {weaponTypes.map((type) => (
             <li key={type}>
               <button
