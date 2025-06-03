@@ -4,1371 +4,1568 @@
         "type": "Assault Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": "/weapons/kastov545.png"
+        
     },
     {
         "name": "M16",
         "type": "Assault Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": "/weapons/m16.png"
     },
     {
         "name": "Kastov 762",
         "type": "Assault Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": "/weapons/kastov762.png"
     },
     {
         "name": "GS Magna",
         "type": "PISTOL",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": "/weapons/gsmagna.jpg"
     },
     {
         "name": "M4",
         "type": "Assault Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": "/weapons/m4.png"
     },
     {
         "name": "Bryson 800",
         "type": "SHOTGUN",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Sakin MG38",
         "type": "LMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "TAQ-M",
         "type": "Marksmen Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Fennec 45",
         "type": "SMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "PDSW 528",
         "type": "SMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "FR Avancer",
         "type": "Assault Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "MTZ-556",
         "type": "Assault Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "EBR-14",
         "type": "Marksmen Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "LM-S",
         "type": "Marksmen Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "SP-R 208",
         "type": "Marksmen Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "P890",
         "type": "PISTOL",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "X12",
         "type": "PISTOL",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "X13 Auto",
         "type": "PISTOL",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Bryson 890",
         "type": "SHOTGUN",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "MCPR-300",
         "type": "Sniper",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Signal 50",
         "type": "Sniper",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "WSP Swarm",
         "type": "SMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "STB 556",
         "type": "Assault Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Rapp H",
         "type": "LMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "BAS-P",
         "type": "SMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Vaznev-9k",
         "type": "SMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "M13B",
         "type": "Assault Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Holger 556",
         "type": "Assault Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Striker 9",
         "type": "SMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Expedite 12",
         "type": "SHOTGUN",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "VEL 46",
         "type": "SMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "ISO Hemlock",
         "type": "Assault Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "KATT-AMR",
         "type": "Sniper",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Basilisk",
         "type": "PISTOL",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "M13C",
         "type": "Assault Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "FJX Horus",
         "type": "SMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Renetti",
         "type": "SMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Lockwood 300",
         "type": "SHOTGUN",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "TR-76 Geist",
         "type": "Assault Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Riveter",
         "type": "SHOTGUN",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "FTAC Recon",
         "type": "Battle Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "FSS Hurricane",
         "type": "SMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Minibak",
         "type": "SMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Kar98k",
         "type": "Sniper",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "RAAL MG",
         "type": "LMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Victus XMR",
         "type": "Sniper",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Renetti",
         "type": "PISTOL",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "WSP-9",
         "type": "SMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Tempus Torrent",
         "type": "Marksmen Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "FJX Imperium",
         "type": "Sniper",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "MX Guardian",
         "type": "SHOTGUN",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Carrack .300",
         "type": "Sniper",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "ISO 45",
         "type": "SMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Lockwood 680",
         "type": "SHOTGUN",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Pulemyot 762",
         "type": "LMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "COR-45",
         "type": "PISTOL",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Lachmann-556",
         "type": "Assault Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Lachmann Shroud",
         "type": "SMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Kastov 545",
         "type": "Assault Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "M16",
         "type": "Assault Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "DG-56",
         "type": "Assault Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Sidewinder",
         "type": "Battle Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Reclaimer 18",
         "type": "SHOTGUN",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Kastov LSW",
         "type": "LMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Lachmann-762",
         "type": "Battle Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Stormender",
         "type": "SHOTGUN",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "MODEL L",
         "type": "Assault Rifle",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "JACKAL PDW",
         "type": "SMG",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Holger 26",
         "type": "LMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "SVA 545",
         "type": "Assault Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "RIVAL-9",
         "type": "SMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "KSV",
         "type": "SMG",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "SO-14",
         "type": "Battle Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "TAQ-V",
         "type": "Battle Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Lachmann Sub",
         "type": "SMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "PP-919",
         "type": "SMG",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "MTZ-762",
         "type": "Battle Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "MCW 6.8",
         "type": "Marksmen Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Longbow",
         "type": "Sniper",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "KV Inhibitor",
         "type": "Sniper",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "KOMPAKT 92",
         "type": "SMG",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "556 Icarus",
         "type": "LMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Tempus Razorback",
         "type": "Assault Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "MCW",
         "type": "Assault Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "TAQ-56",
         "type": "Assault Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "HRM-9",
         "type": "SMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "TAQ Evolvere",
         "type": "LMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "ASG-89",
         "type": "SHOTGUN",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "BAL-27",
         "type": "Assault Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "DG-58 LSW",
         "type": "SMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "C9",
         "type": "SMG",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "AEK-973",
         "type": "Marksmen Rifle",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "SVD",
         "type": "Sniper",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "BAS-B",
         "type": "Battle Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "AMR9",
         "type": "SMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Striker",
         "type": "SMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "RAM-9",
         "type": "SMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Lockwood MK2",
         "type": "Marksmen Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "SA-B 50",
         "type": "Marksmen Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "BP50",
         "type": "Assault Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "FJX Horus",
         "type": "SMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "SP-X 80",
         "type": "Sniper",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": ".50gs",
         "type": "PISTOL",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "MORS",
         "type": "Sniper",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Marine SP",
         "type": "SHOTGUN",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "KV Broadside",
         "type": "SHOTGUN",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "BP50",
         "type": "SMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "RGL-80",
         "type": "Marksmen Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "PU-21",
         "type": "LMG",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "HCR 56",
         "type": "LMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Cronen Squall",
         "type": "Battle Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Lockwood MK2",
         "type": "SHOTGUN",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "BASEBALL BAT",
         "type": "MELEE",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "PPSh-41",
         "type": "SMG",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "FTAC Siege",
         "type": "PISTOL",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "FR 5.56",
         "type": "Assault Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Haymaker",
         "type": "SHOTGUN",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Stormender",
         "type": "SHOTGUN",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "ISO 9mm",
         "type": "SMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "RGL-80",
         "type": "Marksmen Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "MAELSTROM",
         "type": "SHOTGUN",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "POWER DRILL",
         "type": "MELEE",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Cypher 091",
         "type": "Assault Rifle",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Kastov-74U",
         "type": "Assault Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Chimera",
         "type": "Assault Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Bo Staff",
         "type": "MELEE",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "KVD Enforcer",
         "type": "Marksmen Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "DM56",
         "type": "Marksmen Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "TYR",
         "type": "PISTOL",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Superi 46",
         "type": "SMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Sai",
         "type": "MELEE",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "AK-74",
         "type": "Assault Rifle",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "AMES 85",
         "type": "Assault Rifle",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "KRIG C",
         "type": "Assault Rifle",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "SAUG",
         "type": "SMG",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "LA-B 330",
         "type": "Sniper",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "SIRIN 9mm",
         "type": "LAUNCHER",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Katanas",
         "type": "MELEE",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Nunchaku",
         "type": "MELEE",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "DG-58 LSW",
         "type": "LMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "RAM-7",
         "type": "Assault Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "WSP Swarm",
         "type": "SMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Crossbow",
         "type": "Marksmen Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "RPK",
         "type": "LMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Kastov 762",
         "type": "Assault Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "STG44",
         "type": "Assault Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Skateboard",
         "type": "MELEE",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Lachmann Shroud",
         "type": "SMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Static-HV",
         "type": "SMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "RPK",
         "type": "LMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Torque 35",
         "type": "Marksmen Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Kilo 141",
         "type": "Assault Rifle",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "DTIR 30-06",
         "type": "Battle Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "MX Guardian",
         "type": "SHOTGUN",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "XM4",
         "type": "Assault Rifle",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "CLEAVER",
         "type": "MELEE",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "HDR",
         "type": "Sniper",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "MX9",
         "type": "SMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "9mm Daemon",
         "type": "PISTOL",
         "game": "mw2",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "MTZ Interceptor",
         "type": "Marksmen Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "WSP Stinger",
         "type": "PISTOL",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Kali Sticks",
         "type": "MELEE",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Bruen Mk9",
         "type": "LMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "TAQ Eradicator",
         "type": "LMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "MCW",
         "type": "SMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "TANTO .22",
         "type": "SMG",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "FFAR 1",
         "type": "Assault Rifle",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "XRK Stalker",
         "type": "Sniper",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "SOA Subverter",
         "type": "Battle Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Pulemyot 762",
         "type": "LMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "LC10",
         "type": "SMG",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "GOBLIN MK2",
         "type": "Assault Rifle",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Feng 82",
         "type": "LMG",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "TR2",
         "type": "Marksmen Rifle",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "D.13 Sector",
         "type": "LAUNCHER",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "AK-74",
         "type": "SMG",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "GPR 91",
         "type": "Assault Rifle",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "AS VAL",
         "type": "Assault Rifle",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "CR-56 AMAX",
         "type": "Assault Rifle",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "GPMG-7",
         "type": "LMG",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "XMG",
         "type": "LMG",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "SWAT 5.56",
         "type": "Marksmen Rifle",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "TSARKOV 7.62",
         "type": "Marksmen Rifle",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "DM-10",
         "type": "Marksmen Rifle",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "LW3A1 FROSTLINE",
         "type": "Sniper",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "STRYDER .22",
         "type": "PISTOL",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "HE-1",
         "type": "LAUNCHER",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "LR 7.62",
         "type": "Sniper",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "GS45",
         "type": "PISTOL",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "9mm PM",
         "type": "PISTOL",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "AMR MOD 4",
         "type": "Sniper",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "GREKHOVA",
         "type": "PISTOL",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Cigma 2B",
         "type": "LAUNCHER",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "KNIFE",
         "type": "MELEE",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "Nail Gun",
         "type": "SPECIAL",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     },
     {
         "name": "LADRA",
         "type": "SMG",
         "game": "bo6",
         "attachments": [],
-        "rank":0
+        "rank":0,
+        "weapon_img": ""
     }
 ]

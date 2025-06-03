@@ -60,17 +60,30 @@ export default function Home() {
   
 
   <div className="flex flex-col gap-4 w-full max-w-4xl">
-    {filteredWeapons.map((weapon, index) => (
-      <div
-        key={index}
-        className="bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 text-white shadow-md rounded-lg p-4 w-full"
-      >
-        <h2 className="text-xl font-semibold text-white-800">{weapon.name}</h2>
-        <p className="text-sm text-white-500">Type: {weapon.type}</p>
-        <p className="text-sm text-white-500">Game: {weapon.game}</p>
+  {filteredWeapons.map((weapon, index) => (
+    <div
+      key={index}
+      className="bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 text-white shadow-md rounded-lg p-4 w-full flex flex-col sm:flex-row gap-4 items-center"
+    >
+      
+      <div>
+        <h2 className="text-xl font-semibold">{weapon.name}</h2>
+        <p className="text-sm">Type: {weapon.type}</p>
+        <p className="text-sm">Game: {weapon.game}</p>
       </div>
-    ))}
-  </div>
+      {weapon.weapon_img && (
+        <Image
+          src={weapon.weapon_img}
+          alt={weapon.name}
+          width={150}
+          height={100}
+          className="rounded-md object-contain"
+        />
+      )}
+    </div>
+  ))}
+</div>
+
 </main>
 
       {/* Footer */}
