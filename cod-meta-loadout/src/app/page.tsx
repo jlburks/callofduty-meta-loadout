@@ -55,18 +55,18 @@ export default function Home() {
       </nav>
 
       {/* Main Content */}
-      <main className="flex-grow p-8 sm:p-20 flex flex-col gap-8 items-center sm:items-start w-full">
+      <main className="flex-grow p-8 sm:p-20 flex flex-col gap-8 items-center w-full">
   
 
   <div className="flex flex-col gap-4 w-full max-w-4xl">
     {filteredWeapons.map((weapon, index) => (
       <div
         key={index}
-        className="bg-white shadow-md rounded-lg p-4 w-full"
+        className="bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 text-white shadow-md rounded-lg p-4 w-full"
       >
-        <h2 className="text-xl font-semibold text-gray-800">{weapon.name}</h2>
-        <p className="text-sm text-gray-500">Type: {weapon.type}</p>
-        <p className="text-sm text-gray-500">Game: {weapon.game}</p>
+        <h2 className="text-xl font-semibold text-white-800">{weapon.name}</h2>
+        <p className="text-sm text-white-500">Type: {weapon.type}</p>
+        <p className="text-sm text-white-500">Game: {weapon.game}</p>
       </div>
     ))}
   </div>
