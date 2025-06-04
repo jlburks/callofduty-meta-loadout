@@ -5,7 +5,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": "/weapons/kastov545.png"
+        "weapon_img": "/weapons/kastov545.avif"
         
     },
     {
@@ -46,7 +46,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/bryson800.png"
     },
     {
         "name": "Sakin MG38",
@@ -54,7 +54,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/sakinmg38.png"
     },
     {
         "name": "TAQ-M",
@@ -62,7 +62,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/taqm.png"
     },
     {
         "name": "Fennec 45",
@@ -70,7 +70,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/fennec45.webp"
     },
     {
         "name": "PDSW 528",
@@ -78,7 +78,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/pdsw528.avif"
     },
     {
         "name": "FR Avancer",
@@ -86,7 +86,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/fravancer.png"
     },
     {
         "name": "MTZ-556",
@@ -94,7 +94,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/mtz556.png"
     },
     {
         "name": "EBR-14",
@@ -102,7 +102,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/ebr14.png"
     },
     {
         "name": "LM-S",
@@ -110,7 +110,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/ims.webp"
     },
     {
         "name": "SP-R 208",
@@ -118,7 +118,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "P890",
@@ -126,7 +126,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "X12",
@@ -134,7 +134,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "X13 Auto",
@@ -142,7 +142,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Bryson 890",
@@ -150,7 +150,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "MCPR-300",
@@ -158,7 +158,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Signal 50",
@@ -166,7 +166,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "WSP Swarm",
@@ -174,7 +174,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "STB 556",
@@ -182,7 +182,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/stb556.webp"
     },
     {
         "name": "Rapp H",
@@ -190,7 +190,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "BAS-P",
@@ -198,7 +198,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Vaznev-9k",
@@ -206,7 +206,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "M13B",
@@ -214,7 +214,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/m13b.webp"
     },
     {
         "name": "Holger 556",
@@ -222,7 +222,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/holger556.avif"
     },
     {
         "name": "Striker 9",
@@ -230,7 +230,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Expedite 12",
@@ -238,7 +238,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "VEL 46",
@@ -246,7 +246,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "ISO Hemlock",
@@ -254,7 +254,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/isohemlock.webp"
     },
     {
         "name": "KATT-AMR",
@@ -262,7 +262,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Basilisk",
@@ -270,7 +270,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "M13C",
@@ -278,7 +278,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/m13c.webp"
     },
     {
         "name": "FJX Horus",
@@ -286,7 +286,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Renetti",
@@ -294,7 +294,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Lockwood 300",
@@ -302,7 +302,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "TR-76 Geist",
@@ -310,7 +310,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/tr76geist.webp"
     },
     {
         "name": "Riveter",
@@ -318,7 +318,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "FTAC Recon",
@@ -326,7 +326,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "FSS Hurricane",
@@ -334,7 +334,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Minibak",
@@ -342,7 +342,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Kar98k",
@@ -350,7 +350,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "RAAL MG",
@@ -358,7 +358,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Victus XMR",
@@ -366,7 +366,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Renetti",
@@ -374,7 +374,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "WSP-9",
@@ -382,7 +382,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Tempus Torrent",
@@ -390,7 +390,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "FJX Imperium",
@@ -398,7 +398,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "MX Guardian",
@@ -406,7 +406,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Carrack .300",
@@ -414,7 +414,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "ISO 45",
@@ -422,7 +422,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Lockwood 680",
@@ -430,7 +430,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Pulemyot 762",
@@ -438,7 +438,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "COR-45",
@@ -446,7 +446,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Lachmann-556",
@@ -454,7 +454,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/lachmann556.webp"
     },
     {
         "name": "Lachmann Shroud",
@@ -462,23 +462,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
-    },
-    {
-        "name": "Kastov 545",
-        "type": "Assault Rifle",
-        "game": "mw2",
-        "attachments": [],
-        "rank":0,
-        "weapon_img": ""
-    },
-    {
-        "name": "M16",
-        "type": "Assault Rifle",
-        "game": "mw2",
-        "attachments": [],
-        "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "DG-56",
@@ -486,7 +470,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Sidewinder",
@@ -494,7 +478,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Reclaimer 18",
@@ -502,7 +486,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Kastov LSW",
@@ -510,7 +494,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Lachmann-762",
@@ -518,7 +502,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Stormender",
@@ -526,7 +510,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "MODEL L",
@@ -534,7 +518,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "JACKAL PDW",
@@ -542,7 +526,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Holger 26",
@@ -550,7 +534,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "SVA 545",
@@ -558,7 +542,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "RIVAL-9",
@@ -566,7 +550,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "KSV",
@@ -574,7 +558,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "SO-14",
@@ -582,7 +566,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "TAQ-V",
@@ -590,7 +574,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Lachmann Sub",
@@ -598,7 +582,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "PP-919",
@@ -606,7 +590,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "MTZ-762",
@@ -614,7 +598,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "MCW 6.8",
@@ -622,7 +606,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Longbow",
@@ -630,7 +614,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "KV Inhibitor",
@@ -638,7 +622,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "KOMPAKT 92",
@@ -646,7 +630,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "556 Icarus",
@@ -654,7 +638,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Tempus Razorback",
@@ -662,7 +646,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "MCW",
@@ -670,7 +654,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "TAQ-56",
@@ -678,7 +662,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "HRM-9",
@@ -686,7 +670,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "TAQ Evolvere",
@@ -694,7 +678,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "ASG-89",
@@ -702,7 +686,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "BAL-27",
@@ -710,7 +694,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "DG-58 LSW",
@@ -718,7 +702,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "C9",
@@ -726,7 +710,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "AEK-973",
@@ -734,7 +718,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "SVD",
@@ -742,7 +726,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "BAS-B",
@@ -750,7 +734,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "AMR9",
@@ -758,7 +742,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Striker",
@@ -766,7 +750,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "RAM-9",
@@ -774,7 +758,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Lockwood MK2",
@@ -782,7 +766,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "SA-B 50",
@@ -790,7 +774,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "BP50",
@@ -798,7 +782,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "FJX Horus",
@@ -806,7 +790,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "SP-X 80",
@@ -814,7 +798,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": ".50gs",
@@ -822,7 +806,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "MORS",
@@ -830,7 +814,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Marine SP",
@@ -838,7 +822,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "KV Broadside",
@@ -846,7 +830,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "BP50",
@@ -854,7 +838,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "RGL-80",
@@ -862,7 +846,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "PU-21",
@@ -870,7 +854,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "HCR 56",
@@ -878,7 +862,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Cronen Squall",
@@ -886,7 +870,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Lockwood MK2",
@@ -894,7 +878,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "BASEBALL BAT",
@@ -902,7 +886,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "PPSh-41",
@@ -910,7 +894,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "FTAC Siege",
@@ -918,7 +902,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "FR 5.56",
@@ -926,7 +910,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Haymaker",
@@ -934,7 +918,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Stormender",
@@ -942,7 +926,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "ISO 9mm",
@@ -950,7 +934,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "RGL-80",
@@ -958,7 +942,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "MAELSTROM",
@@ -966,7 +950,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "POWER DRILL",
@@ -974,7 +958,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Cypher 091",
@@ -982,7 +966,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Kastov-74U",
@@ -990,7 +974,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Chimera",
@@ -998,7 +982,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Bo Staff",
@@ -1006,7 +990,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "KVD Enforcer",
@@ -1014,7 +998,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "DM56",
@@ -1022,7 +1006,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "TYR",
@@ -1030,7 +1014,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Superi 46",
@@ -1038,7 +1022,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Sai",
@@ -1046,7 +1030,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "AK-74",
@@ -1054,7 +1038,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "AMES 85",
@@ -1062,7 +1046,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "KRIG C",
@@ -1070,7 +1054,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "SAUG",
@@ -1078,7 +1062,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "LA-B 330",
@@ -1086,7 +1070,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "SIRIN 9mm",
@@ -1094,7 +1078,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Katanas",
@@ -1102,7 +1086,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Nunchaku",
@@ -1110,7 +1094,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "DG-58 LSW",
@@ -1118,7 +1102,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "RAM-7",
@@ -1126,7 +1110,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "WSP Swarm",
@@ -1134,7 +1118,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Crossbow",
@@ -1142,7 +1126,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "RPK",
@@ -1150,7 +1134,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Kastov 762",
@@ -1158,7 +1142,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "STG44",
@@ -1166,7 +1150,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Skateboard",
@@ -1174,7 +1158,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Lachmann Shroud",
@@ -1182,7 +1166,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Static-HV",
@@ -1190,7 +1174,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "RPK",
@@ -1198,7 +1182,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Torque 35",
@@ -1206,7 +1190,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Kilo 141",
@@ -1214,7 +1198,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "DTIR 30-06",
@@ -1222,7 +1206,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "MX Guardian",
@@ -1230,7 +1214,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "XM4",
@@ -1238,7 +1222,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "CLEAVER",
@@ -1246,7 +1230,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "HDR",
@@ -1254,7 +1238,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "MX9",
@@ -1262,7 +1246,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "9mm Daemon",
@@ -1270,7 +1254,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "MTZ Interceptor",
@@ -1278,7 +1262,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "WSP Stinger",
@@ -1286,7 +1270,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Kali Sticks",
@@ -1294,7 +1278,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Bruen Mk9",
@@ -1302,7 +1286,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "TAQ Eradicator",
@@ -1310,7 +1294,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "MCW",
@@ -1318,7 +1302,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "TANTO .22",
@@ -1326,7 +1310,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "FFAR 1",
@@ -1334,7 +1318,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "XRK Stalker",
@@ -1342,7 +1326,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "SOA Subverter",
@@ -1350,7 +1334,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Pulemyot 762",
@@ -1358,7 +1342,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "LC10",
@@ -1366,7 +1350,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "GOBLIN MK2",
@@ -1374,7 +1358,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Feng 82",
@@ -1382,7 +1366,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "TR2",
@@ -1390,7 +1374,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "D.13 Sector",
@@ -1398,7 +1382,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "AK-74",
@@ -1406,7 +1390,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "GPR 91",
@@ -1414,7 +1398,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "AS VAL",
@@ -1422,7 +1406,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "CR-56 AMAX",
@@ -1430,7 +1414,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "GPMG-7",
@@ -1438,7 +1422,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "XMG",
@@ -1446,7 +1430,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "SWAT 5.56",
@@ -1454,7 +1438,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "TSARKOV 7.62",
@@ -1462,7 +1446,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "DM-10",
@@ -1470,7 +1454,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "LW3A1 FROSTLINE",
@@ -1478,7 +1462,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "STRYDER .22",
@@ -1486,7 +1470,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "HE-1",
@@ -1494,7 +1478,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "LR 7.62",
@@ -1502,7 +1486,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "GS45",
@@ -1510,7 +1494,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "9mm PM",
@@ -1518,7 +1502,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "AMR MOD 4",
@@ -1526,7 +1510,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "GREKHOVA",
@@ -1534,7 +1518,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Cigma 2B",
@@ -1542,7 +1526,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "KNIFE",
@@ -1550,7 +1534,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "Nail Gun",
@@ -1558,7 +1542,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     },
     {
         "name": "LADRA",
@@ -1566,6 +1550,6 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": ""
+        "weapon_img": "/weapons/"
     }
 ]
