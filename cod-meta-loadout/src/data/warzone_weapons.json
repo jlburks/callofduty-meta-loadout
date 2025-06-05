@@ -118,7 +118,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": "/weapons/"
+        "weapon_img": "/weapons/spr208.webp"
     },
     {
         "name": "P890",
@@ -158,7 +158,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": "/weapons/"
+        "weapon_img": "/weapons/mcpr300.webp"
     },
     {
         "name": "Signal 50",
@@ -166,7 +166,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": "/weapons/"
+        "weapon_img": "/weapons/signal50.avif"
     },
     {
         "name": "WSP Swarm",
@@ -190,7 +190,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": "/weapons/"
+        "weapon_img": "/weapons/rapph.avif"
     },
     {
         "name": "BAS-P",
@@ -262,7 +262,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": "/weapons/"
+        "weapon_img": "/weapons/kattamr.webp"
     },
     {
         "name": "Basilisk",
@@ -282,7 +282,7 @@
     },
     {
         "name": "Renetti",
-        "type": "SMG",
+        "type": "PISTOL",
         "game": "mw3",
         "attachments": [],
         "rank":0,
@@ -342,7 +342,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": "/weapons/"
+        "weapon_img": "/weapons/kar98k.webp"
     },
     {
         "name": "RAAL MG",
@@ -350,7 +350,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": "/weapons/"
+        "weapon_img": "/weapons/raalmg.webp"
     },
     {
         "name": "Victus XMR",
@@ -358,7 +358,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": "/weapons/"
+        "weapon_img": "/weapons/victusxmr.png"
     },
     {
         "name": "WSP-9",
@@ -374,7 +374,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": "/weapons/"
+        "weapon_img": "/weapons/tempustorrent.webp"
     },
     {
         "name": "FJX Imperium",
@@ -382,7 +382,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": "/weapons/"
+        "weapon_img": "/weapons/fjximperium.avif"
     },
     {
         "name": "MX Guardian",
@@ -398,7 +398,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": "/weapons/"
+        "weapon_img": "/weapons/carrack300.avif"
     },
     {
         "name": "ISO 45",
@@ -415,14 +415,6 @@
         "attachments": [],
         "rank":0,
         "weapon_img": "/weapons/lockwood680.avif"
-    },
-    {
-        "name": "Pulemyot 762",
-        "type": "LMG",
-        "game": "mw3",
-        "attachments": [],
-        "rank":0,
-        "weapon_img": "/weapons/"
     },
     {
         "name": "COR-45",
@@ -590,7 +582,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": "/weapons/mcw68.jpg"
+        "weapon_img": "/weapons/mcw68.png"
     },
     {
         "name": "Longbow",
@@ -830,7 +822,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": "/weapons/rgl80.webp"
+        "weapon_img": "/weapons/rgl80.png"
     },
     {
         "name": "PU-21",
@@ -846,7 +838,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": "/weapons/hcr56.webp"
+        "weapon_img": "/weapons/hcr56.avif"
     },
     {
         "name": "Cronen Squall",
@@ -919,14 +911,6 @@
         "attachments": [],
         "rank":0,
         "weapon_img": "/weapons/iso9mm.webp"
-    },
-    {
-        "name": "RGL-80",
-        "type": "Marksmen Rifle",
-        "game": "mw3",
-        "attachments": [],
-        "rank":0,
-        "weapon_img": "/weapons/rgl80.webp"
     },
     {
         "name": "MAELSTROM",
@@ -1054,7 +1038,7 @@
         "game": "mw2",
         "attachments": [],
         "rank":0,
-        "weapon_img": "/weapons/lab330.webp"
+        "weapon_img": "/weapons/lab330.avif"
     },
     {
         "name": "SIRIN 9mm",
@@ -1158,7 +1142,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": "/weapons/torque35.webp"
+        "weapon_img": "/weapons/torque35.avif"
     },
     {
         "name": "Kilo 141",
@@ -1246,7 +1230,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": "/weapons/buruenmk9.webp"
+        "weapon_img": "/weapons/bruenmk9.avif"
     },
     {
         "name": "TAQ Eradicator",
@@ -1254,7 +1238,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": "/weapons/taqeradicator.webp"
+        "weapon_img": "/weapons/taqeradicator.png"
     },
     {
         "name": "MCW",
@@ -1302,7 +1286,7 @@
         "game": "mw3",
         "attachments": [],
         "rank":0,
-        "weapon_img": "/weapons/pulemyot762.webp"
+        "weapon_img": "/weapons/pulemyot762.avif"
     },
     {
         "name": "LC10",
@@ -1326,7 +1310,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": "/weapons/feng82webp"
+        "weapon_img": "/weapons/feng82.webp"
     },
     {
         "name": "TR2",
@@ -1446,7 +1430,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": "/weapons/lr762.avif"
+        "weapon_img": "/weapons/lr762.webp"
     },
     {
         "name": "GS45",
@@ -1470,7 +1454,7 @@
         "game": "bo6",
         "attachments": [],
         "rank":0,
-        "weapon_img": "/weapons/amrmod4.avif"
+        "weapon_img": "/weapons/amrmod4.webp"
     },
     {
         "name": "GREKHOVA",
