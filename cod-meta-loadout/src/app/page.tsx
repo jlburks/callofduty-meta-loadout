@@ -70,6 +70,7 @@ export default function Home() {
         <h2 className="text-xl font-semibold">{weapon.name}</h2>
         <p className="text-sm">Type: {weapon.type}</p>
         <p className="text-sm">Game: {weapon.game}</p>
+        <p>f</p>
       </div>
       {weapon.weapon_img && (
         <Image
