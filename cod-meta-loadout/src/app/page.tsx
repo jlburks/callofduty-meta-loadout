@@ -17,22 +17,22 @@ const weaponTypes = [
 export default function Home() {
   const [selectedType, setSelectedType] = useState("Assault Rifle");
 
-  const filteredWeapons = weapons.filter(
-    (weapon) => weapon.type.toLowerCase() === selectedType.toLowerCase()
-  );
+  const filteredWeapons = weapons
+    .filter(
+      (weapon) => weapon.type.toLowerCase() === selectedType.toLowerCase()
+    )
+    .sort((a, b) => a.rank - b.rank); // Sort weapons by ascending rank
 
   return (
     <div className="flex flex-col min-h-screen font-[family-name:var(--font-geist-sans)]">
       {/* Header */}
       <header className="relative h-40 w-full flex items-center justify-center text-white text-4xl font-bold shadow-lg">
-
         <Image
           src="/call-of-duty-warzone-4k-kzetz7h7t75073ye.jpg"
           alt="Cool header effect"
           fill
           className="object-cover opacity-30"
         />
-        
       </header>
 
       {/* Navbar */}
@@ -57,35 +57,31 @@ export default function Home() {
 
       {/* Main Content */}
       <main className="flex-grow p-8 sm:p-20 flex flex-col gap-8 items-center w-full">
-  
-
-  <div className="flex flex-col gap-4 w-full max-w-4xl">
-  {filteredWeapons.map((weapon, index) => (
-    <div
-      key={index}
-      className="bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 text-white shadow-md rounded-lg p-4 w-full flex flex-col sm:flex-row gap-4 items-center"
-    >
-      
-      <div>
-        <h2 className="text-xl font-semibold">{weapon.name}</h2>
-        <p className="text-sm">Type: {weapon.type}</p>
-        <p className="text-sm">Game: {weapon.game}</p>
-        
-      </div>
-      {weapon.weapon_img && (
-        <Image
-          src={weapon.weapon_img}
-          alt={weapon.name}
-          width={150}
-          height={100}
-          className="rounded-md object-contain"
-        />
-      )}
-    </div>
-  ))}
-</div>
-
-</main>
+        <div className="flex flex-col gap-4 w-full max-w-4xl">
+          {filteredWeapons.map((weapon, index) => (
+            <div
+              key={index}
+              className="bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 text-white shadow-md rounded-lg p-4 w-full flex flex-col sm:flex-row gap-4 items-center"
+            >
+              <div>
+                <h2 className="text-xl font-semibold">{weapon.name}</h2>
+                <p className="text-sm">Type: {weapon.type}</p>
+                <p className="text-sm">Game: {weapon.game}</p>
+                <p className="text-sm">Rank: {weapon.rank}</p>
+              </div>
+              {weapon.weapon_img && (
+                <Image
+                  src={weapon.weapon_img}
+                  alt={weapon.name}
+                  width={150}
+                  height={100}
+                  className="rounded-md object-contain"
+                />
+              )}
+            </div>
+          ))}
+        </div>
+      </main>
 
       {/* Footer */}
       <footer className="bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 shadow-md w-full p-4 flex justify-center items-center text-white">

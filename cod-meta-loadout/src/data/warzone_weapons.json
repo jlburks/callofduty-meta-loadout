@@ -4,7 +4,7 @@
         "type": "Assault Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":45,
         "weapon_img": "/weapons/kastov545.avif"
         
     },
@@ -13,7 +13,7 @@
         "type": "Assault Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":46,
         "weapon_img": "/weapons/m16.png"
     },
     {
@@ -21,7 +21,7 @@
         "type": "Assault Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":38,
         "weapon_img": "/weapons/kastov762.png"
     },
     {
@@ -29,7 +29,7 @@
         "type": "PISTOL",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":75,
         "weapon_img": "/weapons/gsmagna.jpg"
     },
     {
@@ -37,7 +37,7 @@
         "type": "Assault Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":9,
         "weapon_img": "/weapons/m4.png"
     },
     {
@@ -45,7 +45,7 @@
         "type": "SHOTGUN",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":38,
         "weapon_img": "/weapons/bryson800.png"
     },
     {
@@ -53,7 +53,7 @@
         "type": "LMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":24,
         "weapon_img": "/weapons/sakinmg38.png"
     },
     {
@@ -61,7 +61,7 @@
         "type": "Marksmen Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":79,
         "weapon_img": "/weapons/taqm.png"
     },
     {
@@ -69,7 +69,7 @@
         "type": "SMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":30,
         "weapon_img": "/weapons/fennec45.webp"
     },
     {
@@ -77,7 +77,7 @@
         "type": "SMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":13,
         "weapon_img": "/weapons/pdsw528.avif"
     },
     {
@@ -85,7 +85,7 @@
         "type": "Assault Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":67,
         "weapon_img": "/weapons/fravancer.png"
     },
     {
@@ -93,7 +93,7 @@
         "type": "Assault Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":19,
         "weapon_img": "/weapons/mtz556.png"
     },
     {
@@ -101,7 +101,7 @@
         "type": "Marksmen Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":85,
         "weapon_img": "/weapons/ebr14.png"
     },
     {
@@ -109,7 +109,7 @@
         "type": "Marksmen Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":68,
         "weapon_img": "/weapons/ims.webp"
     },
     {
@@ -117,7 +117,7 @@
         "type": "Marksmen Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":90,
         "weapon_img": "/weapons/spr208.webp"
     },
     {
@@ -125,7 +125,7 @@
         "type": "PISTOL",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":68,
         "weapon_img": "/weapons/"
     },
     {
@@ -133,7 +133,7 @@
         "type": "PISTOL",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":66,
         "weapon_img": "/weapons/"
     },
     {
@@ -141,7 +141,7 @@
         "type": "PISTOL",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":58,
         "weapon_img": "/weapons/"
     },
     {
@@ -149,7 +149,7 @@
         "type": "SHOTGUN",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":37,
         "weapon_img": "/weapons/bryson90.webp"
     },
     {
@@ -157,7 +157,7 @@
         "type": "Sniper",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":11,
         "weapon_img": "/weapons/mcpr300.webp"
     },
     {
@@ -165,7 +165,7 @@
         "type": "Sniper",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":14,
         "weapon_img": "/weapons/signal50.avif"
     },
     {
@@ -173,7 +173,7 @@
         "type": "SMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":35,
         "weapon_img": "/weapons/wspswarm.webp"
     },
     {
@@ -181,7 +181,7 @@
         "type": "Assault Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":35,
         "weapon_img": "/weapons/stb556.webp"
     },
     {
@@ -189,7 +189,7 @@
         "type": "LMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":47,
         "weapon_img": "/weapons/rapph.avif"
     },
     {
@@ -197,7 +197,7 @@
         "type": "SMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":44,
         "weapon_img": "/weapons/basb.webp"
     },
     {
@@ -205,7 +205,7 @@
         "type": "SMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":29,
         "weapon_img": "/weapons/vaznev9k.webp"
     },
     {
@@ -213,7 +213,7 @@
         "type": "Assault Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":21,
         "weapon_img": "/weapons/m13b.webp"
     },
     {
@@ -221,7 +221,7 @@
         "type": "Assault Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":26,
         "weapon_img": "/weapons/holger556.avif"
     },
     {
@@ -229,7 +229,7 @@
         "type": "SMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":41,
         "weapon_img": "/weapons/striker9.webp"
     },
     {
@@ -237,7 +237,7 @@
         "type": "SHOTGUN",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":39,
         "weapon_img": "/weapons/expedite12.avif"
     },
     {
@@ -245,7 +245,7 @@
         "type": "SMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":28,
         "weapon_img": "/weapons/vel46.avif"
     },
     {
@@ -253,7 +253,7 @@
         "type": "Assault Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":27,
         "weapon_img": "/weapons/isohemlock.webp"
     },
     {
@@ -261,7 +261,7 @@
         "type": "Sniper",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":6,
         "weapon_img": "/weapons/kattamr.webp"
     },
     {
@@ -269,7 +269,7 @@
         "type": "PISTOL",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":73,
         "weapon_img": "/weapons/"
     },
     {
@@ -277,7 +277,7 @@
         "type": "Assault Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":78,
         "weapon_img": "/weapons/m13c.webp"
     },
     {
@@ -285,7 +285,7 @@
         "type": "PISTOL",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":59,
         "weapon_img": "/weapons/renetti.webp"
     },
     {
@@ -293,7 +293,7 @@
         "type": "SHOTGUN",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":76,
         "weapon_img": "/weapons/lockwood300.avif"
     },
     {
@@ -301,7 +301,7 @@
         "type": "Assault Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":64,
         "weapon_img": "/weapons/tr76geist.webp"
     },
     {
@@ -309,7 +309,7 @@
         "type": "SHOTGUN",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":32,
         "weapon_img": "/weapons/riveter.webp"
     },
     {
@@ -317,7 +317,7 @@
         "type": "Battle Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":71,
         "weapon_img": "/weapons/ftacrecon.webp"
     },
     {
@@ -325,7 +325,7 @@
         "type": "SMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":42,
         "weapon_img": "/weapons/fsshurricane.webp"
     },
     {
@@ -333,7 +333,7 @@
         "type": "SMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":46,
         "weapon_img": "/weapons/minibak.webp"
     },
     {
@@ -341,7 +341,7 @@
         "type": "Sniper",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":1,
         "weapon_img": "/weapons/kar98k.webp"
     },
     {
@@ -349,7 +349,7 @@
         "type": "LMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":83,
         "weapon_img": "/weapons/raalmg.webp"
     },
     {
@@ -357,7 +357,7 @@
         "type": "Sniper",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":8,
         "weapon_img": "/weapons/victusxmr.png"
     },
     {
@@ -365,7 +365,7 @@
         "type": "SMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":34,
         "weapon_img": "/weapons/WSP-9.png"
     },
     {
@@ -373,7 +373,7 @@
         "type": "Marksmen Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":40,
         "weapon_img": "/weapons/tempustorrent.webp"
     },
     {
@@ -381,7 +381,7 @@
         "type": "Sniper",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":2,
         "weapon_img": "/weapons/fjximperium.avif"
     },
     {
@@ -389,7 +389,7 @@
         "type": "SHOTGUN",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":15,
         "weapon_img": "/weapons/mxguardian.webp"
     },
     {
@@ -397,7 +397,7 @@
         "type": "Sniper",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":18,
         "weapon_img": "/weapons/carrack300.avif"
     },
     {
@@ -405,7 +405,7 @@
         "type": "SMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":56,
         "weapon_img": "/weapons/iso45.webp"
     },
     {
@@ -413,7 +413,7 @@
         "type": "SHOTGUN",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":57,
         "weapon_img": "/weapons/lockwood680.avif"
     },
     {
@@ -421,7 +421,7 @@
         "type": "PISTOL",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":67,
         "weapon_img": "/weapons/"
     },
     {
@@ -429,7 +429,7 @@
         "type": "Assault Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":44,
         "weapon_img": "/weapons/lachmann556.webp"
     },
     {
@@ -437,7 +437,7 @@
         "type": "SMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":61,
         "weapon_img": "/weapons/lachmannshroud.webp"
     },
     {
@@ -445,7 +445,7 @@
         "type": "Assault Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":74,
         "weapon_img": "/weapons/dg56.png"
     },
     {
@@ -453,7 +453,7 @@
         "type": "Battle Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":55,
         "weapon_img": "/weapons/sidewinder.webp"
     },
     {
@@ -461,7 +461,7 @@
         "type": "SHOTGUN",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":70,
         "weapon_img": "/weapons/reclaimer18.png"
     },
     {
@@ -469,7 +469,7 @@
         "type": "LMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":61,
         "weapon_img": "/weapons/kastovlsw.png"
     },
     {
@@ -477,7 +477,7 @@
         "type": "Battle Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":81,
         "weapon_img": "/weapons/lachmann762.webp"
     },
     {
@@ -485,7 +485,7 @@
         "type": "SHOTGUN",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":55,
         "weapon_img": "/weapons/stormender.png"
     },
     {
@@ -493,7 +493,7 @@
         "type": "Assault Rifle",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":18,
         "weapon_img": "/weapons/modell.avif"
     },
     {
@@ -501,7 +501,7 @@
         "type": "SMG",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":11,
         "weapon_img": "/weapons/jakalpdw.png"
     },
     {
@@ -509,7 +509,7 @@
         "type": "LMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":30,
         "weapon_img": "/weapons/holger26.webp"
     },
     {
@@ -517,7 +517,7 @@
         "type": "Assault Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":50,
         "weapon_img": "/weapons/sva545.webp"
     },
     {
@@ -525,7 +525,7 @@
         "type": "SMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":24,
         "weapon_img": "/weapons/rival9.webp"
     },
     {
@@ -533,7 +533,7 @@
         "type": "SMG",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":7,
         "weapon_img": "/weapons/ksv.png"
     },
     {
@@ -541,7 +541,7 @@
         "type": "Battle Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":60,
         "weapon_img": "/weapons/so14.webp"
     },
     {
@@ -549,7 +549,7 @@
         "type": "Battle Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":43,
         "weapon_img": "/weapons/taqv.webp"
     },
     {
@@ -557,7 +557,7 @@
         "type": "SMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":47,
         "weapon_img": "/weapons/lachmannsub.webp"
     },
     {
@@ -565,7 +565,7 @@
         "type": "SMG",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":17,
         "weapon_img": "/weapons/pp919.avif"
     },
     {
@@ -573,7 +573,7 @@
         "type": "Battle Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":48,
         "weapon_img": "/weapons/mtz762.webp"
     },
     {
@@ -581,7 +581,7 @@
         "type": "Marksmen Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":39,
         "weapon_img": "/weapons/mcw68.png"
     },
     {
@@ -589,7 +589,7 @@
         "type": "Sniper",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":16,
         "weapon_img": "/weapons/longbow.webp"
     },
     {
@@ -597,7 +597,7 @@
         "type": "Sniper",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":17,
         "weapon_img": "/weapons/kvinhibitor.webp"
     },
     {
@@ -605,7 +605,7 @@
         "type": "SMG",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":5,
         "weapon_img": "/weapons/kompakt92.avif"
     },
     {
@@ -613,7 +613,7 @@
         "type": "LMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":31,
         "weapon_img": "/weapons/556icarus.webp"
     },
     {
@@ -621,7 +621,7 @@
         "type": "Assault Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":52,
         "weapon_img": "/weapons/tempusrazorback.webp"
     },
     {
@@ -629,7 +629,7 @@
         "type": "Assault Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":26,
         "weapon_img": "/weapons/mcw.png"
     },
     {
@@ -637,7 +637,7 @@
         "type": "Assault Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":13,
         "weapon_img": "/weapons/taq56.webp"
     },
     {
@@ -645,7 +645,7 @@
         "type": "SMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":9,
         "weapon_img": "/weapons/hrm9.webp"
     },
     {
@@ -653,7 +653,7 @@
         "type": "LMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":37,
         "weapon_img": "/weapons/taqevolvere.webp"
     },
     {
@@ -661,7 +661,7 @@
         "type": "SHOTGUN",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":60,
         "weapon_img": "/weapons/asg89.webp"
     },
     {
@@ -669,7 +669,7 @@
         "type": "Assault Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":28,
         "weapon_img": "/weapons/bal27.webp"
     },
     {
@@ -677,7 +677,7 @@
         "type": "SMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":34,
         "weapon_img": "/weapons/dg58lsw.webp"
     },
     {
@@ -685,7 +685,7 @@
         "type": "SMG",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":2,
         "weapon_img": "/weapons/c9.webp"
     },
     {
@@ -693,7 +693,7 @@
         "type": "Marksmen Rifle",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":59,
         "weapon_img": "/weapons/aek973.avif"
     },
     {
@@ -701,7 +701,7 @@
         "type": "Sniper",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":15,
         "weapon_img": "/weapons/svd.avif"
     },
     {
@@ -709,7 +709,7 @@
         "type": "Battle Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":42,
         "weapon_img": "/weapons/basb.webp"
     },
     {
@@ -717,7 +717,7 @@
         "type": "SMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":23,
         "weapon_img": "/weapons/amr9.webp"
     },
     {
@@ -725,7 +725,7 @@
         "type": "SMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":16,
         "weapon_img": "/weapons/striker.webp"
     },
     {
@@ -733,23 +733,15 @@
         "type": "SMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":27,
         "weapon_img": "/weapons/ram9.webp"
-    },
-    {
-        "name": "Lockwood MK2",
-        "type": "Marksmen Rifle",
-        "game": "mw2",
-        "attachments": [],
-        "rank":0,
-        "weapon_img": "/weapons/lockwoodmk2.webp"
     },
     {
         "name": "SA-B 50",
         "type": "Marksmen Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":86,
         "weapon_img": "/weapons/sab50.webp"
     },
     {
@@ -757,7 +749,7 @@
         "type": "Assault Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":22,
         "weapon_img": "/weapons/bp50.webp"
     },
     {
@@ -765,7 +757,7 @@
         "type": "SMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":21,
         "weapon_img": "/weapons/fjxhorus.webp"
     },
     {
@@ -773,7 +765,7 @@
         "type": "Sniper",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":12,
         "weapon_img": "/weapons/spx80.webp"
     },
     {
@@ -781,7 +773,7 @@
         "type": "PISTOL",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":72,
         "weapon_img": "/weapons/.50gs.webp"
     },
     {
@@ -789,7 +781,7 @@
         "type": "Sniper",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":7,
         "weapon_img": "/weapons/mors.webp"
     },
     {
@@ -797,7 +789,7 @@
         "type": "SHOTGUN",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":40,
         "weapon_img": "/weapons/marinesp.avif"
     },
     {
@@ -805,7 +797,7 @@
         "type": "SHOTGUN",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":31,
         "weapon_img": "/weapons/kvbroadside.webp"
     },
     {
@@ -813,7 +805,7 @@
         "type": "SMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":36,
         "weapon_img": "/weapons/bp50.webp"
     },
     {
@@ -821,7 +813,7 @@
         "type": "Marksmen Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":77,
         "weapon_img": "/weapons/rgl80.png"
     },
     {
@@ -829,7 +821,7 @@
         "type": "LMG",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":53,
         "weapon_img": "/weapons/pu21.avif"
     },
     {
@@ -837,7 +829,7 @@
         "type": "LMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":57,
         "weapon_img": "/weapons/hcr56.avif"
     },
     {
@@ -845,7 +837,7 @@
         "type": "Battle Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":82,
         "weapon_img": "/weapons/cronensquall.webp"
     },
     {
@@ -853,7 +845,7 @@
         "type": "SHOTGUN",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":91,
         "weapon_img": "/weapons/lockwoodmk2.webp"
     },
     {
@@ -861,7 +853,7 @@
         "type": "MELEE",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":10000,
         "weapon_img": "/weapons/baseballbat.avif"
     },
     {
@@ -869,7 +861,7 @@
         "type": "SMG",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":6,
         "weapon_img": "/weapons/ppsh41.png"
     },
     {
@@ -877,7 +869,7 @@
         "type": "PISTOL",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":69,
         "weapon_img": "/weapons/"
     },
     {
@@ -885,7 +877,7 @@
         "type": "Assault Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":75,
         "weapon_img": "/weapons/fr556.png"
     },
     {
@@ -893,7 +885,7 @@
         "type": "SHOTGUN",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":54,
         "weapon_img": "/weapons/haymaker.avif"
     },
     {
@@ -901,7 +893,7 @@
         "type": "SHOTGUN",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":55,
         "weapon_img": "/weapons/stormender.png"
     },
     {
@@ -909,7 +901,7 @@
         "type": "SMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":63,
         "weapon_img": "/weapons/iso9mm.webp"
     },
     {
@@ -917,7 +909,7 @@
         "type": "SHOTGUN",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":49,
         "weapon_img": "/weapons/maelstrom.avif"
     },
     {
@@ -925,7 +917,7 @@
         "type": "MELEE",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":1000,
         "weapon_img": "/weapons/powerdrill.avif"
     },
     {
@@ -933,7 +925,7 @@
         "type": "Assault Rifle",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":8,
         "weapon_img": "/weapons/cypher091.webp"
     },
     {
@@ -941,7 +933,7 @@
         "type": "Assault Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":80,
         "weapon_img": "/weapons/kastov74u.avif"
     },
     {
@@ -949,7 +941,7 @@
         "type": "Assault Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":76,
         "weapon_img": "/weapons/chimera.avif"
     },
     {
@@ -957,7 +949,7 @@
         "type": "MELEE",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":10010,
         "weapon_img": "/weapons/bostaff.avif"
     },
     {
@@ -965,7 +957,7 @@
         "type": "Marksmen Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":56,
         "weapon_img": "/weapons/kvdenforcer.webp"
     },
     {
@@ -973,7 +965,7 @@
         "type": "Marksmen Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":72,
         "weapon_img": "/weapons/dm56.webp"
     },
     {
@@ -981,7 +973,7 @@
         "type": "PISTOL",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":65,
         "weapon_img": "/weapons/tyr.webp"
     },
     {
@@ -989,7 +981,7 @@
         "type": "SMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":19,
         "weapon_img": "/weapons/superi46.webp"
     },
     {
@@ -997,7 +989,7 @@
         "type": "MELEE",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":1110,
         "weapon_img": "/weapons/sai.avif"
     },
     {
@@ -1005,7 +997,7 @@
         "type": "Assault Rifle",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":10,
         "weapon_img": "/weapons/ak74.avif"
     },
     {
@@ -1013,7 +1005,7 @@
         "type": "Assault Rifle",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":6,
         "weapon_img": "/weapons/ames85.avif"
     },
     {
@@ -1021,7 +1013,7 @@
         "type": "Assault Rifle",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":4,
         "weapon_img": "/weapons/krigc.webp"
     },
     {
@@ -1029,7 +1021,7 @@
         "type": "SMG",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":4,
         "weapon_img": "/weapons/saug.avif"
     },
     {
@@ -1037,7 +1029,7 @@
         "type": "Sniper",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":13,
         "weapon_img": "/weapons/lab330.avif"
     },
     {
@@ -1045,7 +1037,7 @@
         "type": "LAUNCHER",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":23,
         "weapon_img": "/weapons/sirin9mm.avif"
     },
     {
@@ -1053,7 +1045,7 @@
         "type": "MELEE",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":1110,
         "weapon_img": "/weapons/katanas.avif"
     },
     {
@@ -1061,7 +1053,7 @@
         "type": "MELEE",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":2111,
         "weapon_img": "/weapons/nunchaku.avif"
     },
     {
@@ -1069,7 +1061,7 @@
         "type": "LMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":36,
         "weapon_img": "/weapons/dg58lsw.webp"
     },
     {
@@ -1077,7 +1069,7 @@
         "type": "Assault Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":66,
         "weapon_img": "/weapons/ram7.avif"
     },
     {
@@ -1085,7 +1077,7 @@
         "type": "Marksmen Rifle",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":65,
         "weapon_img": "/weapons/crossbow.webp"
     },
     {
@@ -1093,23 +1085,15 @@
         "type": "LMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":73,
         "weapon_img": "/weapons/rpk.webp"
-    },
-    {
-        "name": "Kastov 762",
-        "type": "Assault Rifle",
-        "game": "mw2",
-        "attachments": [],
-        "rank":0,
-        "weapon_img": "/weapons/kastov762.png"
     },
     {
         "name": "STG44",
         "type": "Assault Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":45,
         "weapon_img": "/weapons/stg44.webp"
     },
     {
@@ -1117,7 +1101,7 @@
         "type": "MELEE",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":11110,
         "weapon_img": "/weapons/"
     },
     {
@@ -1125,7 +1109,7 @@
         "type": "SMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":43,
         "weapon_img": "/weapons/statichv.webp"
     },
     {
@@ -1133,7 +1117,7 @@
         "type": "LMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":73,
         "weapon_img": "/weapons/rpk.webp"
     },
     {
@@ -1141,7 +1125,7 @@
         "type": "Marksmen Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":1110,
         "weapon_img": "/weapons/torque35.avif"
     },
     {
@@ -1149,7 +1133,7 @@
         "type": "Assault Rifle",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":5,
         "weapon_img": "/weapons/kilo141.avif"
     },
     {
@@ -1157,7 +1141,7 @@
         "type": "Battle Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":58,
         "weapon_img": "/weapons/dtir3006.webp"
     },
     {
@@ -1165,7 +1149,7 @@
         "type": "Assault Rifle",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":25,
         "weapon_img": "/weapons/xm4.webp"
     },
     {
@@ -1173,7 +1157,7 @@
         "type": "MELEE",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":11210,
         "weapon_img": "/weapons/cleaver.avif"
     },
     {
@@ -1181,7 +1165,7 @@
         "type": "Sniper",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":4,
         "weapon_img": "/weapons/hdr.avif"
     },
     {
@@ -1189,7 +1173,7 @@
         "type": "SMG",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":8,
         "weapon_img": "/weapons/mx9.webp"
     },
     {
@@ -1197,7 +1181,7 @@
         "type": "PISTOL",
         "game": "mw2",
         "attachments": [],
-        "rank":0,
+        "rank":62,
         "weapon_img": "/weapons/9mmdaemon.webp"
     },
     {
@@ -1205,7 +1189,7 @@
         "type": "Marksmen Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":84,
         "weapon_img": "/weapons/mtzinterceptor.webp"
     },
     {
@@ -1213,7 +1197,7 @@
         "type": "PISTOL",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":45,
         "weapon_img": "/weapons/wspstinger.webp"
     },
     {
@@ -1221,7 +1205,7 @@
         "type": "MELEE",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":11110,
         "weapon_img": "/weapons/kalisticks.avif"
     },
     {
@@ -1229,7 +1213,7 @@
         "type": "LMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":51,
         "weapon_img": "/weapons/bruenmk9.avif"
     },
     {
@@ -1237,7 +1221,7 @@
         "type": "LMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":32,
         "weapon_img": "/weapons/taqeradicator.png"
     },
     {
@@ -1245,7 +1229,7 @@
         "type": "SMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":26,
         "weapon_img": "/weapons/mcw.png"
     },
     {
@@ -1253,7 +1237,7 @@
         "type": "SMG",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":48,
         "weapon_img": "/weapons/tanto22.avif"
     },
     {
@@ -1261,7 +1245,7 @@
         "type": "Assault Rifle",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":1,
         "weapon_img": "/weapons/ffar1.webp"
     },
     {
@@ -1269,7 +1253,7 @@
         "type": "Sniper",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":9,
         "weapon_img": "/weapons/xrkstalker.webp"
     },
     {
@@ -1277,7 +1261,7 @@
         "type": "Battle Rifle",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":41,
         "weapon_img": "/weapons/soasubverter.webp"
     },
     {
@@ -1285,7 +1269,7 @@
         "type": "LMG",
         "game": "mw3",
         "attachments": [],
-        "rank":0,
+        "rank":29,
         "weapon_img": "/weapons/pulemyot762.avif"
     },
     {
@@ -1293,7 +1277,7 @@
         "type": "SMG",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":1,
         "weapon_img": "/weapons/lc10.webp"
     },
     {
@@ -1301,7 +1285,7 @@
         "type": "Assault Rifle",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":17,
         "weapon_img": "/weapons/goblinmk2.avif"
     },
     {
@@ -1309,7 +1293,7 @@
         "type": "LMG",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":14,
         "weapon_img": "/weapons/feng82.webp"
     },
     {
@@ -1317,7 +1301,7 @@
         "type": "Marksmen Rifle",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":10,
         "weapon_img": "/weapons/tr2.webp"
     },
     {
@@ -1325,23 +1309,15 @@
         "type": "LAUNCHER",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":89,
         "weapon_img": "/weapons/d13sector.avif"
-    },
-    {
-        "name": "AK-74",
-        "type": "SMG",
-        "game": "bo6",
-        "attachments": [],
-        "rank":0,
-        "weapon_img": "/weapons/ak74.avif"
     },
     {
         "name": "GPR 91",
         "type": "Assault Rifle",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":2,
         "weapon_img": "/weapons/gpr91.avif"
     },
     {
@@ -1349,7 +1325,7 @@
         "type": "Assault Rifle",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":16,
         "weapon_img": "/weapons/asval.webp"
     },
     {
@@ -1357,7 +1333,7 @@
         "type": "Assault Rifle",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":7,
         "weapon_img": "/weapons/hcr56.avif"
     },
     {
@@ -1365,7 +1341,7 @@
         "type": "LMG",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":54,
         "weapon_img": "/weapons/gpmg7.avif"
     },
     {
@@ -1373,7 +1349,7 @@
         "type": "LMG",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":15,
         "weapon_img": "/weapons/xmg.webp"
     },
     {
@@ -1381,7 +1357,7 @@
         "type": "Marksmen Rifle",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":3,
         "weapon_img": "/weapons/swat556.avif"
     },
     {
@@ -1389,7 +1365,7 @@
         "type": "Marksmen Rifle",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":69,
         "weapon_img": "/weapons/tsarkov762.avif"
     },
     {
@@ -1397,7 +1373,7 @@
         "type": "Marksmen Rifle",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":12,
         "weapon_img": "/weapons/dm10.avif"
     },
     {
@@ -1405,7 +1381,7 @@
         "type": "Sniper",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":3,
         "weapon_img": "/weapons/lw3a1frostline.avif"
     },
     {
@@ -1413,7 +1389,7 @@
         "type": "PISTOL",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":50,
         "weapon_img": "/weapons/stryder22.avif"
     },
     {
@@ -1421,7 +1397,7 @@
         "type": "LAUNCHER",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":1110,
         "weapon_img": "/weapons/he1.png"
     },
     {
@@ -1429,7 +1405,7 @@
         "type": "Sniper",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":5,
         "weapon_img": "/weapons/lr762.webp"
     },
     {
@@ -1437,7 +1413,7 @@
         "type": "PISTOL",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":52,
         "weapon_img": "/weapons/gs45.avif"
     },
     {
@@ -1445,7 +1421,7 @@
         "type": "PISTOL",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":51,
         "weapon_img": "/weapons/9mmpm.avif"
     },
     {
@@ -1453,7 +1429,7 @@
         "type": "Sniper",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":10,
         "weapon_img": "/weapons/amrmod4.webp"
     },
     {
@@ -1461,7 +1437,7 @@
         "type": "PISTOL",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":12,
         "weapon_img": "/weapons/grekhova.avif"
     },
     {
@@ -1469,7 +1445,7 @@
         "type": "LAUNCHER",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":10000,
         "weapon_img": "/weapons/cigma2b.avif"
     },
     {
@@ -1477,7 +1453,7 @@
         "type": "MELEE",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":1000,
         "weapon_img": "/weapons/knife.avif"
     },
     {
@@ -1485,7 +1461,7 @@
         "type": "SPECIAL",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":1000,
         "weapon_img": "/weapons/nailgun.avif"
     },
     {
@@ -1493,7 +1469,7 @@
         "type": "SMG",
         "game": "bo6",
         "attachments": [],
-        "rank":0,
+        "rank":3,
         "weapon_img": "/weapons/ladra.avif"
     }
 ]
