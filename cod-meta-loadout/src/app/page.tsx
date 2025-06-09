@@ -16,12 +16,17 @@ const weaponTypes = [
 
 export default function Home() {
   const [selectedType, setSelectedType] = useState("Assault Rifle");
+  const [expandedWeaponIndexes, setExpandedWeaponIndexes] = useState<number[]>([]);
+
+  const toggleDropdown = (index: number) => {
+    setExpandedWeaponIndexes((prev) =>
+      prev.includes(index) ? prev.filter((i) => i !== index) : [...prev, index]
+    );
+  };
 
   const filteredWeapons = weapons
-    .filter(
-      (weapon) => weapon.type.toLowerCase() === selectedType.toLowerCase()
-    )
-    .sort((a, b) => a.rank - b.rank); // Sort weapons by ascending rank
+    .filter((weapon) => weapon.type.toLowerCase() === selectedType.toLowerCase())
+    .sort((a, b) => a.rank - b.rank);
 
   return (
     <div className="flex flex-col min-h-screen font-[family-name:var(--font-geist-sans)]">
@@ -43,9 +48,7 @@ export default function Home() {
               <button
                 onClick={() => setSelectedType(type)}
                 className={`px-3 py-1 rounded-md transition ${
-                  selectedType === type
-                    ? "bg-white text-black"
-                    : "hover:bg-white/20"
+                  selectedType === type ? "bg-white text-black" : "hover:bg-white/20"
                 }`}
               >
                 {type}
@@ -57,29 +60,78 @@ export default function Home() {
 
       {/* Main Content */}
       <main className="flex-grow p-8 sm:p-20 flex flex-col gap-8 items-center w-full">
-        <div className="flex flex-col gap-4 w-full max-w-4xl">
-          {filteredWeapons.map((weapon, index) => (
-            <div
-              key={index}
-              className="bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 text-white shadow-md rounded-lg p-4 w-full flex flex-col sm:flex-row gap-4 items-center"
-            >
-              <div>
-                <h2 className="text-xl font-semibold">{weapon.name}</h2>
-                <p className="text-sm">Type: {weapon.type}</p>
-                <p className="text-sm">Game: {weapon.game}</p>
-                <p className="text-sm">Rank: {weapon.rank}</p>
+        <div className="flex flex-col gap-4 w-full max-w-2xl">
+          {filteredWeapons.map((weapon, index) => {
+            const isExpanded = expandedWeaponIndexes.includes(index);
+
+            return (
+              <div
+                key={index}
+                className="bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 text-white shadow-md rounded-lg p-4 w-full flex flex-col gap-2"
+              >
+                <div className="flex flex-col sm:flex-row gap-4 items-center justify-between w-full">
+                  <div>
+                    <h2 className="text-xl font-semibold">{weapon.name}</h2>
+                    <p className="text-sm">Type: {weapon.type}</p>
+                    <p className="text-sm">Game: {weapon.game}</p>
+                    <p className="text-sm">Rank: {weapon.rank}</p>
+                  </div>
+                  <div className="flex items-center gap-4">
+                    {weapon.weapon_img && (
+                      <Image
+                        src={weapon.weapon_img}
+                        alt={weapon.name}
+                        width={150}
+                        height={100}
+                        className="rounded-md object-contain"
+                      />
+                    )}
+                    <button
+                      onClick={() => toggleDropdown(index)}
+                      className="text-white hover:bg-white/20 p-2 rounded-md text-xl transition"
+                      aria-label="Toggle weapon details"
+                    >
+                      {isExpanded ? "▲" : "▼"}
+                    </button>
+                  </div>
+                </div>
+
+                {/* Attachments list */}
+                {isExpanded && weapon.attachments && weapon.attachments.length > 0 && (
+                  <ul className="mt-2 list-disc list-inside text-sm text-white pl-4 space-y-1">
+                    {weapon.attachments.map(
+                      (
+                        attachment: { category?: string; name?: string } | string,
+                        i: number
+                      ) => {
+                        // Determine display text
+                        if (typeof attachment === "string") {
+                          return <li key={i}>{attachment}</li>;
+                        } else {
+                          const category = attachment.category
+                            ? `${attachment.category}: `
+                            : "";
+                          const name = attachment.name || "Unnamed attachment";
+                          return (
+                            <li key={i}>
+                              <strong>{category}</strong>
+                              {name}
+                            </li>
+                          );
+                        }
+                      }
+                    )}
+                  </ul>
+                )}
+
+                {isExpanded && (!weapon.attachments || weapon.attachments.length === 0) && (
+                  <p className="mt-2 text-sm text-white pl-4 italic">
+                    No attachments available
+                  </p>
+                )}
               </div>
-              {weapon.weapon_img && (
-                <Image
-                  src={weapon.weapon_img}
-                  alt={weapon.name}
-                  width={150}
-                  height={100}
-                  className="rounded-md object-contain"
-                />
-              )}
-            </div>
-          ))}
+            );
+          })}
         </div>
       </main>
 

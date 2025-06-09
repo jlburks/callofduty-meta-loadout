@@ -3,7 +3,13 @@
         "name": "Kastov 545",
         "type": "Assault Rifle",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":45,
         "weapon_img": "/weapons/kastov545.avif"
         
@@ -12,7 +18,13 @@
         "name": "M16",
         "type": "Assault Rifle",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "JAK PATRIOT", "category": "Conversion Kit" },
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "CASUS BRAKE", "category": "Muzzle" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.56 HIGH VELOCITY", "category": "Ammunition" }    
+        ],
         "rank":46,
         "weapon_img": "/weapons/m16.png"
     },
@@ -20,7 +32,13 @@
         "name": "Kastov 762",
         "type": "Assault Rifle",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "JAK REQUIEM", "category": "Conversion Kit" },
+  { "name": "NYDAR MODEL 2023", "category": "Optic" },
+  { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+  { "name": "40 ROUND MAG", "category": "Magazine" },
+  { "name": "7.62X39MM HIGH VELOCITY", "category": "Ammunition" } 
+        ],
         "rank":38,
         "weapon_img": "/weapons/kastov762.png"
     },
@@ -28,7 +46,13 @@
         "name": "GS Magna",
         "type": "PISTOL",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":75,
         "weapon_img": "/weapons/gsmagna.jpg"
     },
@@ -36,7 +60,13 @@
         "name": "M4",
         "type": "Assault Rifle",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "KOMODO HEAVY", "category": "Muzzle" },
+          { "name": "HIGHTOWER 20\" BARREL", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.56 NATO LOW GRAIN ROUNDS", "category": "Ammunition" }    
+        ],
         "rank":9,
         "weapon_img": "/weapons/m4.png"
     },
@@ -44,7 +74,13 @@
         "name": "Bryson 800",
         "type": "SHOTGUN",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "FLASH TWIST-90", "category": "Muzzle" },
+  { "name": "29.5\" RIFLED BARREL", "category": "Barrel" },
+  { "name": "SAWED OFF MOD", "category": "Stock" },
+  { "name": "KIMURA RYL33 LASER LIGHT", "category": "Laser" },
+  { "name": "12 GAUGE DRAGON'S BREATH", "category": "Fire Mods" }   
+        ],
         "rank":38,
         "weapon_img": "/weapons/bryson800.png"
     },
@@ -52,7 +88,13 @@
         "name": "Sakin MG38",
         "type": "LMG",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+  { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+  { "name": "20\" BRUEN SILVER SERIES BARREL", "category": "Barrel" },
+  { "name": "XRK BOWBREAKER GRIP", "category": "Underbarrel" },
+  { "name": "7.62X51MM HIGH GRAIN ROUNDS", "category": "Ammunition" }  
+        ],
         "rank":24,
         "weapon_img": "/weapons/sakinmg38.png"
     },
@@ -60,7 +102,13 @@
         "name": "TAQ-M",
         "type": "Marksmen Rifle",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "CORIO EAGLESEYE 2.5X", "category": "Optic" },
+  { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+  { "name": "LR1:7 20.5\" BARREL", "category": "Barrel" },
+  { "name": "20 ROUND MAG", "category": "Magazine" },
+  { "name": "6.5MM HIGH VELOCITY", "category": "Ammunition" }    
+        ],
         "rank":79,
         "weapon_img": "/weapons/taqm.png"
     },
@@ -68,7 +116,13 @@
         "name": "Fennec 45",
         "type": "SMG",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "FENNEC COVERT FORCE", "category": "Barrel" },
+  { "name": "JAK SLASH", "category": "Underbarrel" },
+  { "name": "FENNEC MAG 45", "category": "Magazine" },
+  { "name": "AGILE ASSAULT-7 STOCK", "category": "Stock" },
+  { "name": ".45 AUTO HIGH GRAIN ROUNDS", "category": "Ammunition" }   
+        ],
         "rank":30,
         "weapon_img": "/weapons/fennec45.webp"
     },
@@ -76,7 +130,13 @@
         "name": "PDSW 528",
         "type": "SMG",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+  { "name": "BRUEN PENDULUM", "category": "Muzzle" },
+  { "name": "FTAC SERIES IX 14.5\"", "category": "Barrel" },
+  { "name": "CQB STOCK", "category": "Stock" },
+  { "name": "GR33 LIGHT RAIL", "category": "Rail" }    
+        ],
         "rank":13,
         "weapon_img": "/weapons/pdsw528.avif"
     },
@@ -84,7 +144,13 @@
         "name": "FR Avancer",
         "type": "Assault Rifle",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "CASUS BRAKE", "category": "Muzzle" },
+  { "name": "600MM FR LONGBORE", "category": "Barrel" },
+  { "name": "XRK BOWBREAKER GRIP", "category": "Underbarrel" },
+  { "name": "60 ROUND MAG", "category": "Magazine" },
+  { "name": "5.56 NATO LOW GRAIN ROUNDS", "category": "Ammunition" }
+        ],
         "rank":67,
         "weapon_img": "/weapons/fravancer.png"
     },
@@ -92,7 +158,13 @@
         "name": "MTZ-556",
         "type": "Assault Rifle",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "JAK GLASSLESS OPTIC", "category": "Optic" },
+  { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+  { "name": "MTZ CLINCH PRO BARREL", "category": "Barrel" },
+  { "name": "50 ROUND DRUM", "category": "Magazine" },
+  { "name": "MTZ MARAUDER STOCK", "category": "Stock" }   
+        ],
         "rank":19,
         "weapon_img": "/weapons/mtz556.png"
     },
@@ -100,7 +172,13 @@
         "name": "EBR-14",
         "type": "Marksmen Rifle",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+  { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+  { "name": "20 ROUND MAG", "category": "Magazine" },
+  { "name": "SO-90 FACTORY STOCK", "category": "Stock" },
+  { "name": "7.62X51MM HIGH GRAIN ROUNDS", "category": "Ammunition" }  
+        ],
         "rank":85,
         "weapon_img": "/weapons/ebr14.png"
     },
@@ -108,7 +186,13 @@
         "name": "LM-S",
         "type": "Marksmen Rifle",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+  { "name": "VT-7 SPIRITFIRE SUPPRESSOR L", "category": "Muzzle" },
+  { "name": "XRK BOWBREAKER GRIP", "category": "Underbarrel" },
+  { "name": "20 ROUND MAG", "category": "Magazine" },
+  { "name": "7.62X51MM HIGH GRAIN ROUNDS", "category": "Ammunition" }   
+        ],
         "rank":68,
         "weapon_img": "/weapons/ims.webp"
     },
@@ -116,7 +200,13 @@
         "name": "SP-R 208",
         "type": "Marksmen Rifle",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "SP-X 80 6.6X", "category": "Optic" },
+  { "name": "SONIC SUPPRESSOR L", "category": "Muzzle" },
+  { "name": "FSS OLE-V LASER", "category": "Laser" },
+  { "name": "7.62X51MM HIGH VELOCITY", "category": "Ammunition" },
+  { "name": "FSS ST87 Bolt", "category": "Bolt" }  
+        ],
         "rank":90,
         "weapon_img": "/weapons/spr208.webp"
     },
@@ -124,7 +214,13 @@
         "name": "P890",
         "type": "PISTOL",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":68,
         "weapon_img": "/weapons/"
     },
@@ -132,7 +228,13 @@
         "name": "X12",
         "type": "PISTOL",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":66,
         "weapon_img": "/weapons/"
     },
@@ -140,7 +242,13 @@
         "name": "X13 Auto",
         "type": "PISTOL",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":58,
         "weapon_img": "/weapons/"
     },
@@ -148,7 +256,13 @@
         "name": "Bryson 890",
         "type": "SHOTGUN",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "FLASH TWIST-90", "category": "Muzzle" },
+  { "name": "21.5\" Bryson TacFire", "category": "Barrel" },
+  { "name": "SAWED OFF MOD", "category": "Stock" },
+  { "name": "KIMURA RYL33 LASER LIGHT", "category": "Laser" },
+  { "name": "DEMO X50 TACTICAL PUMP", "category": "Guard" }  
+        ],
         "rank":37,
         "weapon_img": "/weapons/bryson90.webp"
     },
@@ -156,7 +270,16 @@
         "name": "MCPR-300",
         "type": "Sniper",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          [
+  { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+  { "name": "22\" OMX-456", "category": "Barrel" },
+  { "name": "CRONEN CHEETAH GRIP", "category": "Rear Grip" },
+  { "name": "FSS MERC STOCK", "category": "Stock" },
+  { "name": "CORIO LAZ-44 V3", "category": "Laser" }
+]
+   
+        ],
         "rank":11,
         "weapon_img": "/weapons/mcpr300.webp"
     },
@@ -164,7 +287,13 @@
         "name": "Signal 50",
         "type": "Sniper",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "Forge Tac Delta 4", "category": "Optic" },
+  { "name": "SONIC SUPPRESSOR XL", "category": "Muzzle" },
+  { "name": "DR-6 HANDSTOP", "category": "Underbarrel" },
+  { "name": "FSS OLE-V LASER", "category": "Laser" },
+  { "name": ".50 CAL SPIRE POINT ROUNDS", "category": "Ammunition" }  
+        ],
         "rank":14,
         "weapon_img": "/weapons/signal50.avif"
     },
@@ -172,7 +301,13 @@
         "name": "WSP Swarm",
         "type": "SMG",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "BRUEN CUBIC COMP", "category": "Muzzle" },
+  { "name": "WSP RUTHLESS-L BARREL", "category": "Barrel" },
+  { "name": "50 ROUND MAG", "category": "Magazine" },
+  { "name": "FSS FORTRESS HEAVY STOCK", "category": "Stock" },
+  { "name": "9MM HIGH GRAIN ROUNDS", "category": "Ammunition" }  
+        ],
         "rank":35,
         "weapon_img": "/weapons/wspswarm.webp"
     },
@@ -180,7 +315,13 @@
         "name": "STB 556",
         "type": "Assault Rifle",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+  { "name": "BRUEN TURACO 686MM", "category": "Barrel" },
+  { "name": "XRK BOWBREAKER GRIP", "category": "Underbarrel" },
+  { "name": "42 ROUND MAG", "category": "Magazine" },
+  { "name": "5.56 NATO LOW GRAIN ROUNDS", "category": "Ammunition" }  
+        ],
         "rank":35,
         "weapon_img": "/weapons/stb556.webp"
     },
@@ -188,7 +329,13 @@
         "name": "Rapp H",
         "type": "LMG",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "JAK GLASSLESS OPTIC", "category": "Optic" },
+  { "name": "CASUS BRAKE L", "category": "Muzzle" },
+  { "name": "ROMEO FT 16\" BARREL", "category": "Barrel" },
+  { "name": "XRK BOWBREAKER GRIP", "category": "Underbarrel" },
+  { "name": "7.62X51MM HIGH VELOCITY", "category": "Ammunition" }
+        ],
         "rank":47,
         "weapon_img": "/weapons/rapph.avif"
     },
@@ -196,7 +343,13 @@
         "name": "BAS-P",
         "type": "SMG",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "BRUEN PENDULUM", "category": "Muzzle" },
+  { "name": "JAK SLASH", "category": "Underbarrel" },
+  { "name": "50 ROUND DRUM", "category": "Magazine" },
+  { "name": "BRUEN FLASH V4 STOCK", "category": "Stock" },
+  { "name": "9MM HIGH GRAIN ROUNDS", "category": "Ammunition" }    
+        ],
         "rank":44,
         "weapon_img": "/weapons/basb.webp"
     },
@@ -204,7 +357,13 @@
         "name": "Vaznev-9k",
         "type": "SMG",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "JAK SLASH", "category": "Underbarrel" },
+  { "name": "45 ROUND MAG", "category": "Magazine" },
+  { "name": "TRUE-TAC GRIP", "category": "Rear Grip" },
+  { "name": "OTREZAT STOCK", "category": "Stock" },
+  { "name": "9MM HIGH GRAIN ROUNDS", "category": "Ammunition" }  
+        ],
         "rank":29,
         "weapon_img": "/weapons/vaznev9k.webp"
     },
@@ -212,7 +371,13 @@
         "name": "M13B",
         "type": "Assault Rifle",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+  { "name": "CASUS BRAKE", "category": "Muzzle" },
+  { "name": "14\" BRUEN ECHELON", "category": "Barrel" },
+  { "name": "60 ROUND MAG", "category": "Magazine" },
+  { "name": "5.56 HIGH VELOCITY", "category": "Ammunition" }  
+        ],
         "rank":21,
         "weapon_img": "/weapons/m13b.webp"
     },
@@ -220,7 +385,13 @@
         "name": "Holger 556",
         "type": "Assault Rifle",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "JAK GLASSLESS OPTIC", "category": "Optic" },
+  { "name": "CASUS BRAKE", "category": "Muzzle" },
+  { "name": "CHRIOS-6 MATCH", "category": "Barrel" },
+  { "name": "40 ROUND MAG", "category": "Magazine" },
+  { "name": "5.56 HIGH VELOCITY", "category": "Ammunition" }    
+        ],
         "rank":26,
         "weapon_img": "/weapons/holger556.avif"
     },
@@ -228,7 +399,13 @@
         "name": "Striker 9",
         "type": "SMG",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "BRUEN PENDULUM", "category": "Muzzle" },
+  { "name": "JAK SLASH", "category": "Underbarrel" },
+  { "name": "50 ROUND DRUM", "category": "Magazine" },
+  { "name": "STRIKER FACTORY STOCK", "category": "Stock" },
+  { "name": "9MM HIGH GRAIN ROUNDS", "category": "Ammunition" }   
+        ],
         "rank":41,
         "weapon_img": "/weapons/striker9.webp"
     },
@@ -236,7 +413,14 @@
         "name": "Expedite 12",
         "type": "SHOTGUN",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "FLASH TWIST-90", "category": "Muzzle" },
+  { "name": "RESONANCE STOCK COLLAPSED", "category": "Stock" },
+  { "name": "KIMURA RYL33 LASER LIGHT", "category": "Laser" },
+  { "name": "12 GAUGE DRAGON'S BREATH", "category": "Ammunition" },
+  { "name": "TV CF40 GUARD", "category": "Guard" },
+  { "name": "EXPEDITE L-BOLT", "category": "Bolt" }
+        ],
         "rank":39,
         "weapon_img": "/weapons/expedite12.avif"
     },
@@ -244,7 +428,13 @@
         "name": "VEL 46",
         "type": "SMG",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "TANGO 228 BARREL", "category": "Barrel" },
+  { "name": "JAK SLASH", "category": "Underbarrel" },
+  { "name": "60 ROUND MAG", "category": "Magazine" },
+  { "name": "SCHLAGER SOLDIER GRIP", "category": "Rear Grip" },
+  { "name": "DEMO RXT STOCK", "category": "Stock" }   
+        ],
         "rank":28,
         "weapon_img": "/weapons/vel46.avif"
     },
@@ -252,7 +442,13 @@
         "name": "ISO Hemlock",
         "type": "Assault Rifle",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+  { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+  { "name": "FIELDER-T50", "category": "Barrel" },
+  { "name": "45 ROUND MAG", "category": "Magazine" },
+  { "name": "5.56 NATO HIGH GRAIN ROUNDS", "category": "Ammunition" }  
+        ],
         "rank":27,
         "weapon_img": "/weapons/isohemlock.webp"
     },
@@ -260,7 +456,13 @@
         "name": "KATT-AMR",
         "type": "Sniper",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR XL", "category": "Muzzle" },
+  { "name": "ZANG-34 BARREL", "category": "Barrel" },
+  { "name": "CORIO LAZ-44 V3", "category": "Laser" },
+  { "name": ".50 CAL HIGH VELOCITY", "category": "Ammunition" },
+  { "name": "EPHEMERAL QUICKBOLT", "category": "Bolt" }   
+        ],
         "rank":6,
         "weapon_img": "/weapons/kattamr.webp"
     },
@@ -268,7 +470,13 @@
         "name": "Basilisk",
         "type": "PISTOL",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":73,
         "weapon_img": "/weapons/"
     },
@@ -276,7 +484,13 @@
         "name": "M13C",
         "type": "Assault Rifle",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "JAK GLASSLESS OPTIC", "category": "Optic" },
+  { "name": "ZEHMN35 COMPENSATED FLASH HIDER", "category": "Muzzle" },
+  { "name": "SL SKELETAL VERTICAL GRIP", "category": "Underbarrel" },
+  { "name": "45 ROUND MAG", "category": "Magazine" },
+  { "name": "D37 GRIP", "category": "Rear Grip" }   
+        ],
         "rank":78,
         "weapon_img": "/weapons/m13c.webp"
     },
@@ -284,7 +498,13 @@
         "name": "Renetti",
         "type": "PISTOL",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":59,
         "weapon_img": "/weapons/renetti.webp"
     },
@@ -292,7 +512,13 @@
         "name": "Lockwood 300",
         "type": "SHOTGUN",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "BRYSON SERIES XII CHOKE", "category": "Muzzle" },
+  { "name": "MATUZEK 812 BARREL", "category": "Barrel" },
+  { "name": "Heist Stock MOD", "category": "Stock" },
+  { "name": "VLK LZR 7MW", "category": "Laser" },
+  { "name": "Maelstorm Dual Trigger", "category": "Trigger Action" }
+        ],
         "rank":76,
         "weapon_img": "/weapons/lockwood300.avif"
     },
@@ -300,7 +526,13 @@
         "name": "TR-76 Geist",
         "type": "Assault Rifle",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+  { "name": "CASUS BRAKE", "category": "Muzzle" },
+  { "name": "BRUEN BRIDLE HEAVY", "category": "Barrel" },
+  { "name": "45 ROUND MAG", "category": "Magazine" },
+  { "name": "7.62X39MM LOW GRAIN ROUNDS", "category": "Ammunition" }  
+        ],
         "rank":64,
         "weapon_img": "/weapons/tr76geist.webp"
     },
@@ -308,7 +540,13 @@
         "name": "Riveter",
         "type": "SHOTGUN",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "SA DRAVEN-20 LONG BARREL", "category": "Barrel" },
+  { "name": "30 ROUND MAG", "category": "Magazine" },
+  { "name": "XTEN GRIP", "category": "Rear Grip" },
+  { "name": "DEMO D50 BUFFER TUBE", "category": "Stock" },
+  { "name": "SL RAZORHAWK LASER LIGHT", "category": "Laser" }   
+        ],
         "rank":32,
         "weapon_img": "/weapons/riveter.webp"
     },
@@ -316,7 +554,13 @@
         "name": "FTAC Recon",
         "type": "Battle Rifle",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "JAK GLASSLESS OPTIC", "category": "Optic" },
+  { "name": "BULL RIDER 16.5\"", "category": "Barrel" },
+  { "name": "XRK BOWBREAKER GRIP", "category": "Underbarrel" },
+  { "name": "15 ROUND MAG", "category": "Magazine" },
+  { "name": ".458 HIGH VELOCITY", "category": "Ammunition" } 
+        ],
         "rank":71,
         "weapon_img": "/weapons/ftacrecon.webp"
     },
@@ -324,7 +568,13 @@
         "name": "FSS Hurricane",
         "type": "SMG",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "MK. 3 REFLECTOR", "category": "Optic" },
+  { "name": "SHADOWSTRIKE SUPPRESSOR S", "category": "Muzzle" },
+  { "name": "JAK SLASH", "category": "Underbarrel" },
+  { "name": "PHANTOM GRIP", "category": "Rear Grip" },
+  { "name": "DEMO QUICKSILVER STOCK", "category": "Stock" }   
+        ],
         "rank":42,
         "weapon_img": "/weapons/fsshurricane.webp"
     },
@@ -332,7 +582,13 @@
         "name": "Minibak",
         "type": "SMG",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+  { "name": "SHADOWSTRIKE SUPPRESSOR S", "category": "Muzzle" },
+  { "name": "TRUE-TAC GRIP", "category": "Rear Grip" },
+  { "name": "MARKEEV R7 STOCK", "category": "Stock" },
+  { "name": "SCHLAGER PEQ BOX IV", "category": "Laser" }   
+        ],
         "rank":46,
         "weapon_img": "/weapons/minibak.webp"
     },
@@ -340,7 +596,15 @@
         "name": "Kar98k",
         "type": "Sniper",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          [
+  { "name": "RANGE CALLER V3.4 OPTIC", "category": "Optic" },
+  { "name": "SONIC SUPPRESSOR L", "category": "Muzzle" },
+  { "name": "PRÄZISIONSGEWEHR 762 LONG BARREL", "category": "Barrel" },
+  { "name": "DR-6 HANDSTOP", "category": "Underbarrel" },
+  { "name": "7.92 HIGH GRAIN ROUNDS", "category": "Ammunition" }
+]   
+        ],
         "rank":1,
         "weapon_img": "/weapons/kar98k.webp"
     },
@@ -348,7 +612,13 @@
         "name": "RAAL MG",
         "type": "LMG",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Base Weapon" },
+  { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Optic" },
+  { "name": "26.5\" DEMO FIELD PRO BARREL", "category": "Barrel" },
+  { "name": "XRK DUNE GRIP", "category": "Underbarrel" },
+  { "name": "STIP-40 GRIP", "category": "Rear Grip" }   
+        ],
         "rank":83,
         "weapon_img": "/weapons/raalmg.webp"
     },
@@ -356,7 +626,13 @@
         "name": "Victus XMR",
         "type": "Sniper",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "XTEN INTLAS AS-7", "category": "Base Weapon" },
+  { "name": "VT-7 SPIRITFIRE SUPPRESSOR XL", "category": "Optic" },
+  { "name": "MACK 8 33.5 SUPER", "category": "Barrel" },
+  { "name": "XRK RISE 50", "category": "Stock" },
+  { "name": ".50 CAL HIGH GRAIN ROUNDS", "category": "Ammunition" }  
+        ],
         "rank":8,
         "weapon_img": "/weapons/victusxmr.png"
     },
@@ -364,7 +640,13 @@
         "name": "WSP-9",
         "type": "SMG",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "MK. 3 REFLECTOR", "category": "Base Weapon" },
+  { "name": "SHADOWSTRIKE SUPPRESSOR S", "category": "Optic" },
+  { "name": "HISS SHORT LIGHT BARREL", "category": "Barrel" },
+  { "name": "JAK SLASH", "category": "Underbarrel" },
+  { "name": "40 ROUND MAG", "category": "Magazine" }   
+        ],
         "rank":34,
         "weapon_img": "/weapons/WSP-9.png"
     },
@@ -372,7 +654,13 @@
         "name": "Tempus Torrent",
         "type": "Marksmen Rifle",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "JAK GLASSLESS OPTIC", "category": "Base Weapon" },
+  { "name": "CHROMA LRS", "category": "Optic" },
+  { "name": "XRK BOWBREAKER GRIP", "category": "Underbarrel" },
+  { "name": "50 ROUND DRUM", "category": "Magazine" },
+  { "name": "7.62X51MM LOW GRAIN ROUNDS", "category": "Ammunition" }   
+        ],
         "rank":40,
         "weapon_img": "/weapons/tempustorrent.webp"
     },
@@ -380,7 +668,13 @@
         "name": "FJX Imperium",
         "type": "Sniper",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR L", "category": "Muzzle" },
+  { "name": "FAHRENHEIT 29\"", "category": "Barrel" },
+  { "name": "FJX KILO-TAC", "category": "Stock" },
+  { "name": "KIMURA RYL33 LASER LIGHT", "category": "Laser" },
+  { "name": ".408 HIGH VELOCITY", "category": "Ammunition" }   
+        ],
         "rank":2,
         "weapon_img": "/weapons/fjximperium.avif"
     },
@@ -388,7 +682,12 @@
         "name": "MX Guardian",
         "type": "SHOTGUN",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "HYP-LM", "category": "Muzzle" },
+  { "name": "BRUEN HEAVY SUPPORT GRIP", "category": "Barrel" },
+  { "name": "MX DCP-0", "category": "Stock" },
+  { "name": "KIMURA RYL33 LASER LIGHT", "category": "Laser" }   
+        ],
         "rank":15,
         "weapon_img": "/weapons/mxguardian.webp"
     },
@@ -396,7 +695,13 @@
         "name": "Carrack .300",
         "type": "Sniper",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "Schlager 3.4X", "category": "Optic" },
+  { "name": "Cronen DM338", "category": "Muzzle" },
+  { "name": "15 Round Mag", "category": "Magazine" },
+  { "name": "TV Nought Grip", "category": "Rear Grip" },
+  { "name": "VLK LZR 7MW", "category": "Laser" }   
+        ],
         "rank":18,
         "weapon_img": "/weapons/carrack300.avif"
     },
@@ -404,7 +709,13 @@
         "name": "ISO 45",
         "type": "SMG",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "Bruen Pendulum", "category": "Optic" },
+  { "name": "JAK Slash", "category": "Muzzle" },
+  { "name": "45 Round Drum", "category": "Magazine" },
+  { "name": "A30 Stout", "category": "Rear Grip" },
+  { "name": "Demo Fade Tac", "category": "Stock" }   
+        ],
         "rank":56,
         "weapon_img": "/weapons/iso45.webp"
     },
@@ -412,7 +723,13 @@
         "name": "Lockwood 680",
         "type": "SHOTGUN",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "Bryson Choke", "category": "Muzzle" },
+  { "name": "Bryson Hammerforged Long Barrel", "category": "Barrel" },
+  { "name": "Sawed Off Mod", "category": "Stock" },
+  { "name": "Kimura RYL33 Laser Light", "category": "Laser" },
+  { "name": "Express Light Bolt", "category": "Bolt" }    
+        ],
         "rank":57,
         "weapon_img": "/weapons/lockwood680.avif"
     },
@@ -420,7 +737,13 @@
         "name": "COR-45",
         "type": "PISTOL",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":67,
         "weapon_img": "/weapons/"
     },
@@ -428,7 +751,13 @@
         "name": "Lachmann-556",
         "type": "Assault Rifle",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "Nydar Model 2023", "category": "Weapon" },
+  { "name": "Komodo Heavy", "category": "Optic" },
+  { "name": "15.9\" Lachmann Rapp Barrel", "category": "Barrel" },
+  { "name": "60 Round Drum", "category": "Magazine" },
+  { "name": "5.56 NATO High Grain Rounds", "category": "Ammunition" }   
+        ],
         "rank":44,
         "weapon_img": "/weapons/lachmann556.webp"
     },
@@ -436,15 +765,27 @@
         "name": "Lachmann Shroud",
         "type": "SMG",
         "game": "mw2",
-        "attachments": [],
-        "rank":61,
+        "attachments": [
+          { "name": "JAK Decimator", "category": "Conversion Kit" },
+  { "name": "JAK Slash", "category": "Underbarrel" },
+  { "name": "50 Round Drum", "category": "Magazine" },
+  { "name": "FT Mobile Stock", "category": "Stock" },
+  { "name": "Kimura RYL33 Laser Light", "category": "Laser" }   
+        ],
+        "rank":14,
         "weapon_img": "/weapons/lachmannshroud.webp"
     },
     {
         "name": "DG-56",
         "type": "Assault Rifle",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "Aim OP-V4", "category": "Optic" },
+  { "name": "VT-7 Spiritfire Suppressor", "category": "Muzzle" },
+  { "name": "DG-58 LS18 Heavy Barrel", "category": "Barrel" },
+  { "name": "40 Round Mag", "category": "Magazine" },
+  { "name": "Varanus Steady Grip", "category": "Rear Grip" }  
+        ],
         "rank":74,
         "weapon_img": "/weapons/dg56.png"
     },
@@ -452,7 +793,13 @@
         "name": "Sidewinder",
         "type": "Battle Rifle",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "category": "Optic", "name": "JAK Glassless Optic" },
+  { "category": "Muzzle", "name": "Casus Brake L" },
+  { "category": "Barrel", "name": "Tempus Predator Precision Barrel" },
+  { "category": "Magazine", "name": "30 Round Drum" },
+  { "category": "Ammunition", "name": "450 Huntsman High Grain Rounds" }   
+        ],
         "rank":55,
         "weapon_img": "/weapons/sidewinder.webp"
     },
@@ -460,7 +807,12 @@
         "name": "Reclaimer 18",
         "type": "SHOTGUN",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "JAK Devastators", "category": "Conversion Kit" },
+  { "name": "Bryson Choke", "category": "Muzzle" },
+  { "name": "Center Mass Grip Tape", "category": "Rear Grip" },
+  { "name": "Stovl Tac Laser", "category": "Laser" }   
+        ],
         "rank":70,
         "weapon_img": "/weapons/reclaimer18.png"
     },
@@ -468,7 +820,13 @@
         "name": "Kastov LSW",
         "type": "LMG",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "JAK Glassless Optic", "category": "Optic" },
+  { "name": "Casus Brake", "category": "Muzzle" },
+  { "name": "Mitigator X40 Heavy Barrel", "category": "Barrel" },
+  { "name": "Spetsnaz S15 Stock", "category": "Stock" },
+  { "name": "5.45 High Velocity", "category": "Ammunition" } 
+        ],
         "rank":61,
         "weapon_img": "/weapons/kastovlsw.png"
     },
@@ -476,7 +834,12 @@
         "name": "Lachmann-762",
         "type": "Battle Rifle",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "Casus Brake L", "category": "Optic" },
+  { "name": "Romeo FT 16\" Barrel", "category": "Muzzle" },
+  { "name": "50 Round Drum", "category": "Magazine" },
+  { "name": "7.62x51mm High Grain Rounds", "category": "Ammunition" }   
+        ],
         "rank":81,
         "weapon_img": "/weapons/lachmann762.webp"
     },
@@ -484,7 +847,9 @@
         "name": "Stormender",
         "type": "SHOTGUN",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "JAK Voltstorm", "category": "Conversion Kit" }    
+        ],
         "rank":55,
         "weapon_img": "/weapons/stormender.png"
     },
@@ -492,7 +857,14 @@
         "name": "MODEL L",
         "type": "Assault Rifle",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "Volzhskiy Reflex", "category": "Optic" },
+  { "name": "AK 74", "level": 5 },
+  { "name": "Compensator", "category": "Muzzle", "level": 24 },
+  { "name": "Gain-Twist Barrel", "category": "Barrel", "level": 11 },
+  { "name": "Vertical Foregrip", "category": "Underbarrel", "level": 7 },
+  { "name": "Extended Mag II", "category": "Magazine" }  
+        ],
         "rank":18,
         "weapon_img": "/weapons/modell.avif"
     },
@@ -500,7 +872,13 @@
         "name": "JACKAL PDW",
         "type": "SMG",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "Long Barrel", "category": "Barrel", "level": 13 },
+  { "name": "Ranger Foregrip", "category": "Underbarrel", "level": 16 },
+  { "name": "Extended Mag II", "category": "Magazine", "level": 21 },
+  { "name": "Ergonomic Grip", "category": "Rear Grip", "level": 32 },
+  { "name": "Infiltrator Stock", "category": "Stock" }  
+        ],
         "rank":11,
         "weapon_img": "/weapons/jakalpdw.png"
     },
@@ -508,7 +886,13 @@
         "name": "Holger 26",
         "type": "LMG",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "JAK Glassless Optic", "category": "Optic" },
+  { "name": "Casus Brake", "category": "Muzzle" },
+  { "name": "Holger Factory Barrel", "category": "Barrel" },
+  { "name": "Ascent Lord Stock", "category": "Stock" },
+  { "name": "5.56 High Velocity", "category": "Ammunition" }   
+        ],
         "rank":30,
         "weapon_img": "/weapons/holger26.webp"
     },
@@ -516,7 +900,13 @@
         "name": "SVA 545",
         "type": "Assault Rifle",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Weapon" },
+  { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Optic" },
+  { "name": "STV PRECISION BARREL", "category": "Barrel" },
+  { "name": "60 ROUND MAG", "category": "Magazine" },
+  { "name": "MANE V6 STOCK", "category": "Stock" }  
+        ],
         "rank":50,
         "weapon_img": "/weapons/sva545.webp"
     },
@@ -524,7 +914,14 @@
         "name": "RIVAL-9",
         "type": "SMG",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "Bruen Pendulum", "category": "Weapon" },
+  { "name": "Jak Slash", "category": "Muzzle" },
+  { "name": "Jak Slash", "category": "Underbarrel" },
+  { "name": "50 Round Drum", "category": "Magazine" },
+  { "name": "Bruen Flash V4 Stock", "category": "Stock" },
+  { "name": "9MM High Grain Rounds", "category": "Ammunition" }   
+        ],
         "rank":24,
         "weapon_img": "/weapons/rival9.webp"
     },
@@ -532,7 +929,13 @@
         "name": "KSV",
         "type": "SMG",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "Long Barrel", "category": "Barrel", "level": 3 },
+  { "name": "Ranger Foregrip", "category": "Underbarrel", "level": 32 },
+  { "name": "Extended Mag II", "category": "Magazine", "level": 27 },
+  { "name": "Ergonomic Grip", "category": "Rear Grip", "level": 41 },
+  { "name": "Infiltrator Stock", "category": "Stock" }   
+        ],
         "rank":7,
         "weapon_img": "/weapons/ksv.png"
     },
@@ -540,7 +943,13 @@
         "name": "SO-14",
         "type": "Battle Rifle",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "Nydar Model 2023", "category": "Optic" },
+  { "name": "VT-7 Spiritfire Suppressor L", "category": "Muzzle" },
+  { "name": "22\" Boremaster Barrel", "category": "Barrel" },
+  { "name": "50 Round Drum", "category": "Magazine" },
+  { "name": "7.62x51mm High Grain Rounds", "category": "Ammunition" }   
+        ],
         "rank":60,
         "weapon_img": "/weapons/so14.webp"
     },
@@ -548,7 +957,13 @@
         "name": "TAQ-V",
         "type": "Battle Rifle",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "Casus Brake L", "category": "Muzzle" },
+  { "name": "18\" Precision-6 Barrel", "category": "Barrel" },
+  { "name": "XRK Bowbreaker Grip", "category": "Underbarrel" },
+  { "name": "50 Round Drum", "category": "Magazine" },
+  { "name": "7.62x51mm Low Grain Rounds", "category": "Ammunition" }   
+        ],
         "rank":43,
         "weapon_img": "/weapons/taqv.webp"
     },
@@ -556,7 +971,13 @@
         "name": "Lachmann Sub",
         "type": "SMG",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "Shadowstrike Suppressor", "category": "Muzzle" },
+  { "name": "L38 Falcon 226mm", "category": "Barrel" },
+  { "name": "JAK Slash", "category": "Underbarrel" },
+  { "name": "50 Round Drum", "category": "Magazine" },
+  { "name": "FT Mobile Stock", "category": "Stock" } 
+        ],
         "rank":47,
         "weapon_img": "/weapons/lachmannsub.webp"
     },
@@ -564,7 +985,13 @@
         "name": "PP-919",
         "type": "SMG",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "Suppressor", "category": "Muzzle", "level": 2 },
+  { "name": "Long Barrel", "category": "Barrel", "level": 4 },
+  { "name": "Fast Mag I", "category": "Magazine", "level": 7 },
+  { "name": "Ergonomic Grip", "category": "Rear Grip", "level": 36 },
+  { "name": "Infiltrator Stock", "category": "Stock" }  
+        ],
         "rank":17,
         "weapon_img": "/weapons/pp919.avif"
     },
@@ -572,7 +999,13 @@
         "name": "MTZ-762",
         "type": "Battle Rifle",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "JAK GLASSLESS OPTIC", "category": "Optic" },
+  { "name": "CASUS BRAKE L", "category": "Muzzle" },
+  { "name": "MTZ-PRECISION BLACKTHORN BARREL", "category": "Barrel" },
+  { "name": "30 ROUND MAG", "category": "Magazine" },
+  { "name": "EXF CLOSE QUARTERS ASSAULT STOCK", "category": "Stock" }   
+        ],
         "rank":48,
         "weapon_img": "/weapons/mtz762.webp"
     },
@@ -580,7 +1013,13 @@
         "name": "MCW 6.8",
         "type": "Marksmen Rifle",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "CORIO EAGLESEYE 2.5X", "category": "Optic" },
+  { "name": "CASUS BRAKE L", "category": "Muzzle" },
+  { "name": "MCW CROWN-30 BARREL", "category": "Barrel" },
+  { "name": "60 ROUND DRUM", "category": "Magazine" },
+  { "name": "6.8 WRATH HIGH GRAIN ROUNDS", "category": "Ammunition" }   
+        ],
         "rank":39,
         "weapon_img": "/weapons/mcw68.png"
     },
@@ -588,7 +1027,13 @@
         "name": "Longbow",
         "type": "Sniper",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "Pro-99 Long Barrel", "category": "Barrel" },
+  { "name": "XTEN Phantom-5 Handstop", "category": "Underbarrel" },
+  { "name": "Chorus Gen4 Grip", "category": "Rear Grip" },
+  { "name": "SA-M Quickbolt", "category": "Bolt" },
+  { "name": "7.62X39MM High Grain Rounds", "category": "Ammunition" }   
+        ],
         "rank":16,
         "weapon_img": "/weapons/longbow.webp"
     },
@@ -596,7 +1041,12 @@
         "name": "KV Inhibitor",
         "type": "Sniper",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "XRK Kraken", "category": "Muzzle" },
+  { "name": "KAS-10 584MM MOD BARREL", "category": "Barrel" },
+  { "name": "KV HEAVY PADDED STOCK", "category": "Stock" },
+  { "name": ".338 MAGNUM SPIRE POINT ROUNDS", "category": "Ammunition" }   
+        ],
         "rank":17,
         "weapon_img": "/weapons/kvinhibitor.webp"
     },
@@ -604,7 +1054,13 @@
         "name": "KOMPAKT 92",
         "type": "SMG",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "COMPENSATOR", "category": "Muzzle", "level": 22 },
+  { "name": "LONG BARREL", "category": "Barrel", "level": 6 },
+  { "name": "RANGER FOREGRIP", "category": "Underbarrel", "level": 31 },
+  { "name": "EXTENDED MAG III", "category": "Magazine", "level": 37 },
+  { "name": "COMMANDO GRIP", "category": "Rear Grip" }  
+        ],
         "rank":5,
         "weapon_img": "/weapons/kompakt92.avif"
     },
@@ -612,7 +1068,13 @@
         "name": "556 Icarus",
         "type": "LMG",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Weapon" },
+  { "name": "CASUS BRAKE L", "category": "Optic" },
+  { "name": "FTAC COLDFORGE 16\" BARREL", "category": "Barrel" },
+  { "name": "XRK BOWBREAKER GRIP", "category": "Underbarrel" },
+  { "name": "5.56 HIGH VELOCITY", "category": "Ammunition" }   
+        ],
         "rank":31,
         "weapon_img": "/weapons/556icarus.webp"
     },
@@ -620,7 +1082,13 @@
         "name": "Tempus Razorback",
         "type": "Assault Rifle",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+  { "name": "16\" TANKR-V", "category": "Barrel" },
+  { "name": "XRK BOWBREAKER GRIP", "category": "Underbarrel" },
+  { "name": "60 ROUND MAG", "category": "Magazine" },
+  { "name": "5.56 NATO LOW GRAIN ROUNDS", "category": "Ammunition" }   
+        ],
         "rank":52,
         "weapon_img": "/weapons/tempusrazorback.webp"
     },
@@ -628,7 +1096,13 @@
         "name": "MCW",
         "type": "Assault Rifle",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "JAK GLASSLESS OPTIC", "category": "Optic" },
+  { "name": "CASUS BRAKE", "category": "Muzzle" },
+  { "name": "16.5\" MCW CYCLONE LONG BARREL", "category": "Barrel" },
+  { "name": "60 ROUND DRUM", "category": "Magazine" },
+  { "name": "5.56 HIGH VELOCITY", "category": "Ammunition" }    
+        ],
         "rank":26,
         "weapon_img": "/weapons/mcw.png"
     },
@@ -636,7 +1110,13 @@
         "name": "TAQ-56",
         "type": "Assault Rifle",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+  { "name": "CASUS BRAKE", "category": "Muzzle" },
+  { "name": "17.5\" TUNDRA PRO BARREL", "category": "Barrel" },
+  { "name": "60 ROUND MAG", "category": "Magazine" },
+  { "name": "5.56 NATO HIGH GRAIN ROUNDS", "category": "Ammunition" }   
+        ],
         "rank":13,
         "weapon_img": "/weapons/taq56.webp"
     },
@@ -644,7 +1124,13 @@
         "name": "HRM-9",
         "type": "SMG",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "BRUEN PENDULUM", "category": "Muzzle" },
+  { "name": "THORN-90 BARREL", "category": "Barrel" },
+  { "name": "50 ROUND DRUM", "category": "Magazine" },
+  { "name": "HATCHET LIGHT STOCK", "category": "Stock" },
+  { "name": "9MM HIGH GRAIN ROUNDS", "category": "Ammunition" }   
+        ],
         "rank":9,
         "weapon_img": "/weapons/hrm9.webp"
     },
@@ -652,7 +1138,13 @@
         "name": "TAQ Evolvere",
         "type": "LMG",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+  { "name": "CASUS BRAKE L", "category": "Muzzle" },
+  { "name": "LRF RIGHTEOUS LONG BARREL", "category": "Barrel" },
+  { "name": "RAMPART HEAVY STOCK", "category": "Stock" },
+  { "name": "7.62X51MM HIGH VELOCITY", "category": "Ammunition" }   
+        ],
         "rank":37,
         "weapon_img": "/weapons/taqevolvere.webp"
     },
@@ -660,7 +1152,13 @@
         "name": "ASG-89",
         "type": "SHOTGUN",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "MODIFIED CHOKE", "category": "Muzzle", "unlock_level": 8 },
+  { "name": "LONG BARREL", "category": "Barrel", "unlock_level": 3 },
+  { "name": "COMMANDO GRIP", "category": "Rear Grip", "unlock_level": 18 },
+  { "name": "TACTICAL LASER", "category": "Laser", "unlock_level": 23 },
+  { "name": "RAPID FIRE", "category": "Fire Mods" }   
+        ],
         "rank":60,
         "weapon_img": "/weapons/asg89.webp"
     },
@@ -668,7 +1166,13 @@
         "name": "BAL-27",
         "type": "Assault Rifle",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "CASUS BRAKE", "category": "Muzzle" },
+  { "name": "CROWN-H3 BARREL", "category": "Barrel" },
+  { "name": "60 ROUND MAG", "category": "Magazine" },
+  { "name": "ARDENT TAC STOCK", "category": "Stock" },
+  { "name": "5.7X28MM HIGH VELOCITY", "category": "Ammunition" }  
+        ],
         "rank":28,
         "weapon_img": "/weapons/bal27.webp"
     },
@@ -676,7 +1180,13 @@
         "name": "DG-58 LSW",
         "type": "SMG",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+  { "name": "CASUS BRAKE", "category": "Muzzle" },
+  { "name": "WUDI LONG BARREL", "category": "Barrel" },
+  { "name": "RECOIL REDUCTION BUTTPLATE", "category": "Stock" },
+  { "name": "5.8X42 HIGH VELOCITY", "category": "Ammunition" }  
+        ],
         "rank":34,
         "weapon_img": "/weapons/dg58lsw.webp"
     },
@@ -684,7 +1194,13 @@
         "name": "C9",
         "type": "SMG",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "LONG BARREL", "category": "Barrel", "level": 2 },
+  { "name": "RANGER FOREGRIP", "category": "Underbarrel", "level": 30 },
+  { "name": "EXTENDED MAG II", "category": "Magazine", "level": 33 },
+  { "name": "ERGONOMIC GRIP", "category": "Rear Grip", "level": 37 },
+  { "name": "INFILTRATOR STOCK", "category": "Stock", "level": 41 }  
+        ],
         "rank":2,
         "weapon_img": "/weapons/c9.webp"
     },
@@ -692,7 +1208,13 @@
         "name": "AEK-973",
         "type": "Marksmen Rifle",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "WILLIS 3X", "category": "Optic", "unlock": "tsarkov 762: level 15" },
+  { "name": "COMPENSATOR", "category": "Muzzle", "level": 28 },
+  { "name": "REINFORCED BARREL", "category": "Barrel", "level": 37 },
+  { "name": "EXTENDED MAG II", "category": "Magazine", "level": 43 },
+  { "name": "7.62X39MM OVERPRESSURED", "category": "Fire Mods" }   
+        ],
         "rank":59,
         "weapon_img": "/weapons/aek973.avif"
     },
@@ -700,7 +1222,13 @@
         "name": "SVD",
         "type": "Sniper",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "PORTED COMPENSATOR", "category": "Muzzle", "level": 36 },
+  { "name": "REINFORCED BARREL", "category": "Barrel", "level": 41 },
+  { "name": "PRECISION HANDGUARD", "category": "Underbarrel", "level": 16 },
+  { "name": "EXTENDED MAG II", "category": "Magazine", "level": 24 },
+  { "name": "RECOIL SPRINGS", "category": "Fire Mods" }   
+        ],
         "rank":15,
         "weapon_img": "/weapons/svd.avif"
     },
@@ -708,7 +1236,13 @@
         "name": "BAS-B",
         "type": "Battle Rifle",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+  { "name": "CASUS BRAKE L", "category": "Muzzle" },
+  { "name": "BRUEN VENOM LONG BARREL", "category": "Barrel" },
+  { "name": "45 ROUND MAG", "category": "Magazine" },
+  { "name": "RAVAGE-20 HEAVY STOCK", "category": "Stock" }   
+        ],
         "rank":42,
         "weapon_img": "/weapons/basb.webp"
     },
@@ -716,7 +1250,13 @@
         "name": "AMR9",
         "type": "SMG",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+  { "name": "AMR9 REGAL PRO BARREL", "category": "Barrel" },
+  { "name": "JAK SLASH", "category": "Underbarrel" },
+  { "name": "50 ROUND DRUM", "category": "Magazine" },
+  { "name": "PIPELINE PRO LTS", "category": "Stock" }    
+        ],
         "rank":23,
         "weapon_img": "/weapons/amr9.webp"
     },
@@ -724,7 +1264,13 @@
         "name": "Striker",
         "type": "SMG",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "SHADOWSTRIKE SUPPRESSOR", "category": "Muzzle" },
+  { "name": "JAK SLASH", "category": "Underbarrel" },
+  { "name": "48 ROUND MAG", "category": "Magazine" },
+  { "name": "LACHMANN MK2 LIGHT STOCK", "category": "Stock" },
+  { "name": ".45 AUTO HIGH GRAIN ROUNDS", "category": "Ammunition" }   
+        ],
         "rank":16,
         "weapon_img": "/weapons/striker.webp"
     },
@@ -732,7 +1278,13 @@
         "name": "RAM-9",
         "type": "SMG",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "BRUEN PENDULUM", "category": "Weapon" },
+  { "name": "ARMISTICE LIGHT BARREL", "category": "Muzzle" },
+  { "name": "JAK SLASH", "category": "Underbarrel" },
+  { "name": "50 ROUND MAG", "category": "Magazine" },
+  { "name": "RECON COMB", "category": "Comb" }  
+        ],
         "rank":27,
         "weapon_img": "/weapons/ram9.webp"
     },
@@ -740,7 +1292,13 @@
         "name": "SA-B 50",
         "type": "Marksmen Rifle",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "SP-X 80 6.6X", "category": "Weapon" },
+  { "name": "SONIC SUPPRESSOR L", "category": "Optic" },
+  { "name": "FSS OLE-V LASER", "category": "Laser" },
+  { "name": ".308 High Velocity", "category": "Ammunition" },
+  { "name": "FSS ST87 Bolt", "category": "Bolt" }  
+        ],
         "rank":86,
         "weapon_img": "/weapons/sab50.webp"
     },
@@ -748,7 +1306,13 @@
         "name": "BP50",
         "type": "Assault Rifle",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "JAK REVENGER KIT", "category": "Conversion Kit" },
+  { "name": "SHADOWSTRIKE SUPPRESSOR", "category": "Muzzle" },
+  { "name": "CCG-TAC TAPE", "category": "Rear Grip" },
+  { "name": "1MW QUICK FIRE LASER", "category": "Laser" },
+  { "name": "9MM HIGH GRAIN ROUNDS", "category": "Ammunition" }    
+        ],
         "rank":22,
         "weapon_img": "/weapons/bp50.webp"
     },
@@ -756,7 +1320,13 @@
         "name": "FJX Horus",
         "type": "SMG",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Model" },
+  { "name": "MARTIS HEAVY BARREL", "category": "Optic" },
+  { "name": "60 ROUND DRUM", "category": "Magazine" },
+  { "name": "MODUS 30 STOCK", "category": "Stock" },
+  { "name": "9MM HIGH GRAIN ROUNDS", "category": "Ammunition" }   
+        ],
         "rank":21,
         "weapon_img": "/weapons/fjxhorus.webp"
     },
@@ -764,7 +1334,13 @@
         "name": "SP-X 80",
         "type": "Sniper",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "SONIC SUPPRESSOR L", "category": "Muzzle" },
+  { "name": "PVZ-890 TAC Stock", "category": "Stock" },
+  { "name": "FSS OLE-V LASER", "category": "Laser" },
+  { "name": ".300 High Velocity", "category": "Ammunition" },
+  { "name": "FSS ST87 Bolt", "category": "Bolt" }   
+        ],
         "rank":12,
         "weapon_img": "/weapons/spx80.webp"
     },
@@ -772,7 +1348,13 @@
         "name": ".50gs",
         "type": "PISTOL",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":72,
         "weapon_img": "/weapons/.50gs.webp"
     },
@@ -780,7 +1362,13 @@
         "name": "MORS",
         "type": "Sniper",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "HEINRICHTER HYBRID SCOPE", "category": "Optic" },
+  { "name": "ICARUS LIGHT STOCK", "category": "Stock" },
+  { "name": "SL RAZORHAWK LASER LIGHT", "category": "Laser" },
+  { "name": "HVP ANTI-MATERIEL SLUG", "category": "Ammunition" },
+  { "name": "QUICK BOLT", "category": "Bolt" }  
+        ],
         "rank":7,
         "weapon_img": "/weapons/mors.webp"
     },
@@ -788,7 +1376,13 @@
         "name": "Marine SP",
         "type": "SHOTGUN",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "MODIFIED CHOKE", "category": "Muzzle", "level": 8 },
+  { "name": "LONG BARREL", "category": "Barrel", "level": 6 },
+  { "name": "COMBAT STOCK", "category": "Stock", "level": 33 },
+  { "name": "TACTICAL LASER", "category": "Laser", "level": 34 },
+  { "name": "RAPID FIRE", "category": "Fire Mods" }  
+        ],
         "rank":40,
         "weapon_img": "/weapons/marinesp.avif"
     },
@@ -796,7 +1390,13 @@
         "name": "KV Broadside",
         "type": "SHOTGUN",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "RANGE TWELVE", "category": "Barrel" },
+  { "name": "12 ROUND MAG", "category": "Magazine" },
+  { "name": "VLK STOCKLESS", "category": "Stock" },
+  { "name": "KIMURA RYL33 LASER LIGHT", "category": "Laser" },
+  { "name": "DASHBOLT 60", "category": "Bolt" }   
+        ],
         "rank":31,
         "weapon_img": "/weapons/kvbroadside.webp"
     },
@@ -804,7 +1404,13 @@
         "name": "BP50",
         "type": "SMG",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "JAK REVENGER KIT", "category": "Conversion Kit" },
+  { "name": "SHADOWSTRIKE SUPPRESSOR", "category": "Muzzle" },
+  { "name": "CCG-TAC TAPE", "category": "Rear Grip" },
+  { "name": "1MW QUICK FIRE LASER", "category": "Laser" },
+  { "name": "9MM HIGH GRAIN ROUNDS", "category": "Ammunition" }   
+        ],
         "rank":36,
         "weapon_img": "/weapons/bp50.webp"
     },
@@ -812,7 +1418,10 @@
         "name": "RGL-80",
         "type": "Marksmen Rifle",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "JAK THUMPER-656", "category": "Conversion Kit" },
+  { "name": "40MM STICKY", "category": "Ammunition" }   
+        ],
         "rank":77,
         "weapon_img": "/weapons/rgl80.png"
     },
@@ -820,7 +1429,13 @@
         "name": "PU-21",
         "type": "LMG",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "VOLZHSKIY REFLEX", "category": "Optic", "level": 5 },
+  { "name": "COMPENSATOR", "category": "Muzzle", "level": 24 },
+  { "name": "REINFORCED BARREL", "category": "Barrel", "level": 34 },
+  { "name": "VERTICAL FOREGRIP", "category": "Underbarrel", "level": 8 },
+  { "name": "RECOIL SPRINGS", "category": "Fire Mods" } 
+        ],
         "rank":53,
         "weapon_img": "/weapons/pu21.avif"
     },
@@ -828,7 +1443,13 @@
         "name": "HCR 56",
         "type": "LMG",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "JAK GLASSLESS OPTIC", "category": "Optic" },
+  { "name": "CASUS BRAKE", "category": "Muzzle" },
+  { "name": "FTAC HORNET 20\" BARREL", "category": "Barrel" },
+  { "name": "XRK BOWBREAKER GRIP", "category": "Underbarrel" },
+  { "name": "5.56 HIGH VELOCITY", "category": "Ammunition" }  
+        ],
         "rank":57,
         "weapon_img": "/weapons/hcr56.avif"
     },
@@ -836,7 +1457,13 @@
         "name": "Cronen Squall",
         "type": "Battle Rifle",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+  { "name": "CASUS BRAKE L", "category": "Muzzle" },
+  { "name": "HR6.8 BARREL", "category": "Barrel" },
+  { "name": "50 ROUND DRUM", "category": "Magazine" },
+  { "name": ".277 HIGH GRAIN ROUNDS", "category": "Ammunition" }  
+        ],
         "rank":82,
         "weapon_img": "/weapons/cronensquall.webp"
     },
@@ -844,7 +1471,11 @@
         "name": "Lockwood MK2",
         "type": "SHOTGUN",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "JAK WARDENS", "category": "Conversion Kit" },
+  { "name": "CROWN BREAKER CHOKE", "category": "Muzzle" },
+  { "name": "VERDANT HOOK CYLINDRICAL LASER", "category": "Laser" } 
+        ],
         "rank":91,
         "weapon_img": "/weapons/lockwoodmk2.webp"
     },
@@ -852,7 +1483,13 @@
         "name": "BASEBALL BAT",
         "type": "MELEE",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":10000,
         "weapon_img": "/weapons/baseballbat.avif"
     },
@@ -860,7 +1497,13 @@
         "name": "PPSh-41",
         "type": "SMG",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "SUPPRESSOR", "category": "Muzzle", "level": 10 },
+  { "name": "LONG BARREL", "category": "Barrel", "level": 11 },
+  { "name": "VERTICAL FOREGRIP", "category": "Underbarrel", "level": 15 },
+  { "name": "EXTENDED MAG II", "category": "Magazine", "level": 13 },
+  { "name": "AGILITY STOCK", "category": "Stock" }   
+        ],
         "rank":6,
         "weapon_img": "/weapons/ppsh41.png"
     },
@@ -868,7 +1511,13 @@
         "name": "FTAC Siege",
         "type": "PISTOL",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":69,
         "weapon_img": "/weapons/"
     },
@@ -876,7 +1525,13 @@
         "name": "FR 5.56",
         "type": "Assault Rifle",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "Aim OP-V4", "category": "Optic" },
+  { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+  { "name": "BRUEN HEAVY SUPPORT GRIP", "category": "Underbarrel" },
+  { "name": "60 ROUND MAG", "category": "Magazine" },
+  { "name": "SA CATION GRIP", "category": "Rear Grip" }  
+        ],
         "rank":75,
         "weapon_img": "/weapons/fr556.png"
     },
@@ -884,7 +1539,13 @@
         "name": "Haymaker",
         "type": "SHOTGUN",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "IMPERATOR LONG BARREL", "category": "Barrel" },
+  { "name": "20 ROUND DRUM", "category": "Magazine" },
+  { "name": "NO STOCK MOD", "category": "Stock" },
+  { "name": "SL RAZORHAWK LASER LIGHT", "category": "Laser" },
+  { "name": "12 GAUGE DRAGON'S BREATH", "category": "Fire Mods" }   
+        ],
         "rank":54,
         "weapon_img": "/weapons/haymaker.avif"
     },
@@ -892,7 +1553,13 @@
         "name": "Stormender",
         "type": "SHOTGUN",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":55,
         "weapon_img": "/weapons/stormender.png"
     },
@@ -900,7 +1567,13 @@
         "name": "ISO 9mm",
         "type": "SMG",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "SHADOWSTRIKE SUPPRESSOR S", "category": "Muzzle" },
+  { "name": "7\" EX RAPTOR-V2", "category": "Barrel" },
+  { "name": "JAK SLASH", "category": "Underbarrel" },
+  { "name": "50 ROUND DRUM", "category": "Magazine" },
+  { "name": "RES-2", "category": "Stock" }  
+        ],
         "rank":63,
         "weapon_img": "/weapons/iso9mm.webp"
     },
@@ -908,7 +1581,13 @@
         "name": "MAELSTROM",
         "type": "SHOTGUN",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "MODIFIED CHOKE", "category": "Muzzle", "level": 21 },
+  { "name": "LONG BARREL", "category": "Barrel", "level": 6 },
+  { "name": "EXTENDED MAG II", "category": "Magazine", "level": 23 },
+  { "name": "TACTICAL LASER", "category": "Laser", "level": 12 },
+  { "name": "RAPID FIRE", "category": "Fire Mods" }   
+        ],
         "rank":49,
         "weapon_img": "/weapons/maelstrom.avif"
     },
@@ -916,7 +1595,13 @@
         "name": "POWER DRILL",
         "type": "MELEE",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":1000,
         "weapon_img": "/weapons/powerdrill.avif"
     },
@@ -924,7 +1609,13 @@
         "name": "Cypher 091",
         "type": "Assault Rifle",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "VOLZHSKIY REFLEX", "category": "Optic", "reference": "ak 74", "level": 5 },
+  { "name": "COMPENSATOR", "category": "Muzzle", "level": 29 },
+  { "name": "REINFORCED BARREL", "category": "Barrel", "level": 37 },
+  { "name": "VERTICAL FOREGRIP", "category": "Underbarrel", "level": 6 },
+  { "name": "EXTENDED MAG II", "category": "Magazine" }  
+        ],
         "rank":8,
         "weapon_img": "/weapons/cypher091.webp"
     },
@@ -932,7 +1623,13 @@
         "name": "Kastov-74U",
         "type": "Assault Rifle",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "ZEHMN35 COMPENSATED FLASH HIDER", "category": "Muzzle" },
+  { "name": "FTAC MSP-98 HANDSTOP", "category": "Underbarrel" },
+  { "name": "45 ROUND MAG", "category": "Magazine" },
+  { "name": "DEMO-X2 GRIP", "category": "Rear Grip" },
+  { "name": "OTREZAT STOCK", "category": "Stock" }   
+        ],
         "rank":80,
         "weapon_img": "/weapons/kastov74u.avif"
     },
@@ -940,7 +1637,13 @@
         "name": "Chimera",
         "type": "Assault Rifle",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "JAK GLASSLESS OPTIC", "category": "Optic" },
+  { "name": "CASUS BRAKE L", "category": "Muzzle" },
+  { "name": "5.5\" EXF OP-40", "category": "Barrel" },
+  { "name": "SL SKELETAL VERTICAL GRIP", "category": "Underbarrel" },
+  { "name": "45 ROUND MAG", "category": "Magazine" }  
+        ],
         "rank":76,
         "weapon_img": "/weapons/chimera.avif"
     },
@@ -948,7 +1651,13 @@
         "name": "Bo Staff",
         "type": "MELEE",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":10010,
         "weapon_img": "/weapons/bostaff.avif"
     },
@@ -956,7 +1665,13 @@
         "name": "KVD Enforcer",
         "type": "Marksmen Rifle",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "CORIO EAGLESEYE 2.5X", "category": "Optic" },
+  { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+  { "name": "KAS-10 584MM MOD BARREL", "category": "Barrel" },
+  { "name": "20 ROUND MAG", "category": "Magazine" },
+  { "name": "7.62X54MMR HIGH GRAIN ROUNDS", "category": "Ammunition" }  
+        ],
         "rank":56,
         "weapon_img": "/weapons/kvdenforcer.webp"
     },
@@ -964,7 +1679,13 @@
         "name": "DM56",
         "type": "Marksmen Rifle",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "CORIO EAGLESEYE 2.5X", "category": "Optic" },
+  { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+  { "name": "PRIME LORD HEAVY BARREL", "category": "Barrel" },
+  { "name": "40 ROUND MAG", "category": "Magazine" },
+  { "name": "5.56 NATO HIGH GRAIN ROUNDS", "category": "Ammunition" }   
+        ],
         "rank":72,
         "weapon_img": "/weapons/dm56.webp"
     },
@@ -972,7 +1693,13 @@
         "name": "TYR",
         "type": "PISTOL",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "JAK BEHOLDER RIFLE KIT", "category": "Conversion Kit" },
+  { "name": "Nydar Model 2023", "category": "Optic" },
+  { "name": "SL SKELETAL VERTICAL GRIP", "category": "Underbarrel" },
+  { "name": "ULLR'S FURY", "category": "Trigger Action" },
+  { "name": "FRIGG'S EMBRACE", "category": "Rear Grip" } 
+        ],
         "rank":65,
         "weapon_img": "/weapons/tyr.webp"
     },
@@ -980,7 +1707,13 @@
         "name": "Superi 46",
         "type": "SMG",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "SHADOWSTRIKE SUPPRESSOR", "category": "Muzzle" },
+  { "name": "BORE 99 SHORT BARREL", "category": "Barrel" },
+  { "name": "JAK SLASH", "category": "Underbarrel" },
+  { "name": "40 ROUND MAG", "category": "Magazine" },
+  { "name": "RESCUE-9 STOCK", "category": "Stock" }   
+        ],
         "rank":19,
         "weapon_img": "/weapons/superi46.webp"
     },
@@ -988,7 +1721,13 @@
         "name": "Sai",
         "type": "MELEE",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":1110,
         "weapon_img": "/weapons/sai.avif"
     },
@@ -996,7 +1735,13 @@
         "name": "AK-74",
         "type": "Assault Rifle",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "COMPENSATOR", "category": "Muzzle" },
+  { "name": "RANGER FOREGRIP", "category": "Underbarrel" },
+  { "name": "EXTENDED MAG I", "category": "Magazine" },
+  { "name": "COMMANDO GRIP", "category": "Rear Grip" },
+  { "name": "INFILTRATOR STOCK", "category": "Stock" }   
+        ],
         "rank":10,
         "weapon_img": "/weapons/ak74.avif"
     },
@@ -1004,7 +1749,13 @@
         "name": "AMES 85",
         "type": "Assault Rifle",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "OTERO RED DOT", "category": "Optic" },
+  { "name": "COMPENSATOR", "category": "Muzzle", "level": 19 },
+  { "name": "GAIN-TWIST BARREL", "category": "Barrel", "level": 9 },
+  { "name": "RANGER FOREGRIP", "category": "Underbarrel", "level": 34 },
+  { "name": "EXTENDED MAG II", "category": "Magazine" }  
+        ],
         "rank":6,
         "weapon_img": "/weapons/ames85.avif"
     },
@@ -1012,7 +1763,13 @@
         "name": "KRIG C",
         "type": "Assault Rifle",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "VOLZHSKIY REFLEX", "category": "Optic" },
+  { "name": "COMPENSATOR", "category": "Muzzle" },
+  { "name": "GAIN-TWIST BARREL", "category": "Barrel" },
+  { "name": "VERTICAL FOREGRIP", "category": "Underbarrel" },
+  { "name": "EXTENDED MAG II", "category": "Magazine" }  
+        ],
         "rank":4,
         "weapon_img": "/weapons/krigc.webp"
     },
@@ -1020,7 +1777,13 @@
         "name": "SAUG",
         "type": "SMG",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":4,
         "weapon_img": "/weapons/saug.avif"
     },
@@ -1028,7 +1791,13 @@
         "name": "LA-B 330",
         "type": "Sniper",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":13,
         "weapon_img": "/weapons/lab330.avif"
     },
@@ -1036,7 +1805,13 @@
         "name": "SIRIN 9mm",
         "type": "LAUNCHER",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":23,
         "weapon_img": "/weapons/sirin9mm.avif"
     },
@@ -1044,7 +1819,13 @@
         "name": "Katanas",
         "type": "MELEE",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":1110,
         "weapon_img": "/weapons/katanas.avif"
     },
@@ -1052,7 +1833,13 @@
         "name": "Nunchaku",
         "type": "MELEE",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":2111,
         "weapon_img": "/weapons/nunchaku.avif"
     },
@@ -1060,7 +1847,13 @@
         "name": "DG-58 LSW",
         "type": "LMG",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":36,
         "weapon_img": "/weapons/dg58lsw.webp"
     },
@@ -1068,7 +1861,13 @@
         "name": "RAM-7",
         "type": "Assault Rifle",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":66,
         "weapon_img": "/weapons/ram7.avif"
     },
@@ -1076,7 +1875,13 @@
         "name": "Crossbow",
         "type": "Marksmen Rifle",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":65,
         "weapon_img": "/weapons/crossbow.webp"
     },
@@ -1084,7 +1889,13 @@
         "name": "RPK",
         "type": "LMG",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":73,
         "weapon_img": "/weapons/rpk.webp"
     },
@@ -1092,7 +1903,13 @@
         "name": "STG44",
         "type": "Assault Rifle",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":45,
         "weapon_img": "/weapons/stg44.webp"
     },
@@ -1100,7 +1917,13 @@
         "name": "Skateboard",
         "type": "MELEE",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":11110,
         "weapon_img": "/weapons/"
     },
@@ -1108,7 +1931,13 @@
         "name": "Static-HV",
         "type": "SMG",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":43,
         "weapon_img": "/weapons/statichv.webp"
     },
@@ -1116,7 +1945,13 @@
         "name": "RPK",
         "type": "LMG",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":73,
         "weapon_img": "/weapons/rpk.webp"
     },
@@ -1124,7 +1959,13 @@
         "name": "Torque 35",
         "type": "Marksmen Rifle",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":1110,
         "weapon_img": "/weapons/torque35.avif"
     },
@@ -1132,7 +1973,13 @@
         "name": "Kilo 141",
         "type": "Assault Rifle",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":5,
         "weapon_img": "/weapons/kilo141.avif"
     },
@@ -1140,7 +1987,13 @@
         "name": "DTIR 30-06",
         "type": "Battle Rifle",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":58,
         "weapon_img": "/weapons/dtir3006.webp"
     },
@@ -1148,7 +2001,13 @@
         "name": "XM4",
         "type": "Assault Rifle",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":25,
         "weapon_img": "/weapons/xm4.webp"
     },
@@ -1156,7 +2015,13 @@
         "name": "CLEAVER",
         "type": "MELEE",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":11210,
         "weapon_img": "/weapons/cleaver.avif"
     },
@@ -1164,7 +2029,13 @@
         "name": "HDR",
         "type": "Sniper",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":4,
         "weapon_img": "/weapons/hdr.avif"
     },
@@ -1172,7 +2043,13 @@
         "name": "MX9",
         "type": "SMG",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":8,
         "weapon_img": "/weapons/mx9.webp"
     },
@@ -1180,7 +2057,13 @@
         "name": "9mm Daemon",
         "type": "PISTOL",
         "game": "mw2",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":62,
         "weapon_img": "/weapons/9mmdaemon.webp"
     },
@@ -1188,7 +2071,13 @@
         "name": "MTZ Interceptor",
         "type": "Marksmen Rifle",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":84,
         "weapon_img": "/weapons/mtzinterceptor.webp"
     },
@@ -1196,7 +2085,13 @@
         "name": "WSP Stinger",
         "type": "PISTOL",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":45,
         "weapon_img": "/weapons/wspstinger.webp"
     },
@@ -1204,7 +2099,13 @@
         "name": "Kali Sticks",
         "type": "MELEE",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":11110,
         "weapon_img": "/weapons/kalisticks.avif"
     },
@@ -1212,7 +2113,13 @@
         "name": "Bruen Mk9",
         "type": "LMG",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":51,
         "weapon_img": "/weapons/bruenmk9.avif"
     },
@@ -1220,7 +2127,13 @@
         "name": "TAQ Eradicator",
         "type": "LMG",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":32,
         "weapon_img": "/weapons/taqeradicator.png"
     },
@@ -1228,7 +2141,13 @@
         "name": "MCW",
         "type": "SMG",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":26,
         "weapon_img": "/weapons/mcw.png"
     },
@@ -1236,7 +2155,13 @@
         "name": "TANTO .22",
         "type": "SMG",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":48,
         "weapon_img": "/weapons/tanto22.avif"
     },
@@ -1244,7 +2169,13 @@
         "name": "FFAR 1",
         "type": "Assault Rifle",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":1,
         "weapon_img": "/weapons/ffar1.webp"
     },
@@ -1252,7 +2183,13 @@
         "name": "XRK Stalker",
         "type": "Sniper",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":9,
         "weapon_img": "/weapons/xrkstalker.webp"
     },
@@ -1260,7 +2197,13 @@
         "name": "SOA Subverter",
         "type": "Battle Rifle",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":41,
         "weapon_img": "/weapons/soasubverter.webp"
     },
@@ -1268,7 +2211,13 @@
         "name": "Pulemyot 762",
         "type": "LMG",
         "game": "mw3",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":29,
         "weapon_img": "/weapons/pulemyot762.avif"
     },
@@ -1276,7 +2225,13 @@
         "name": "LC10",
         "type": "SMG",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":1,
         "weapon_img": "/weapons/lc10.webp"
     },
@@ -1284,7 +2239,13 @@
         "name": "GOBLIN MK2",
         "type": "Assault Rifle",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":17,
         "weapon_img": "/weapons/goblinmk2.avif"
     },
@@ -1292,7 +2253,13 @@
         "name": "Feng 82",
         "type": "LMG",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":14,
         "weapon_img": "/weapons/feng82.webp"
     },
@@ -1300,7 +2267,13 @@
         "name": "TR2",
         "type": "Marksmen Rifle",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":10,
         "weapon_img": "/weapons/tr2.webp"
     },
@@ -1308,7 +2281,13 @@
         "name": "D.13 Sector",
         "type": "LAUNCHER",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":89,
         "weapon_img": "/weapons/d13sector.avif"
     },
@@ -1316,7 +2295,13 @@
         "name": "GPR 91",
         "type": "Assault Rifle",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":2,
         "weapon_img": "/weapons/gpr91.avif"
     },
@@ -1324,7 +2309,13 @@
         "name": "AS VAL",
         "type": "Assault Rifle",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":16,
         "weapon_img": "/weapons/asval.webp"
     },
@@ -1332,7 +2323,13 @@
         "name": "CR-56 AMAX",
         "type": "Assault Rifle",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":7,
         "weapon_img": "/weapons/hcr56.avif"
     },
@@ -1340,7 +2337,13 @@
         "name": "GPMG-7",
         "type": "LMG",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":54,
         "weapon_img": "/weapons/gpmg7.avif"
     },
@@ -1348,7 +2351,13 @@
         "name": "XMG",
         "type": "LMG",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":15,
         "weapon_img": "/weapons/xmg.webp"
     },
@@ -1356,7 +2365,13 @@
         "name": "SWAT 5.56",
         "type": "Marksmen Rifle",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":3,
         "weapon_img": "/weapons/swat556.avif"
     },
@@ -1364,7 +2379,13 @@
         "name": "TSARKOV 7.62",
         "type": "Marksmen Rifle",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":69,
         "weapon_img": "/weapons/tsarkov762.avif"
     },
@@ -1372,7 +2393,13 @@
         "name": "DM-10",
         "type": "Marksmen Rifle",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":12,
         "weapon_img": "/weapons/dm10.avif"
     },
@@ -1380,7 +2407,13 @@
         "name": "LW3A1 FROSTLINE",
         "type": "Sniper",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":3,
         "weapon_img": "/weapons/lw3a1frostline.avif"
     },
@@ -1388,7 +2421,13 @@
         "name": "STRYDER .22",
         "type": "PISTOL",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":50,
         "weapon_img": "/weapons/stryder22.avif"
     },
@@ -1396,7 +2435,13 @@
         "name": "HE-1",
         "type": "LAUNCHER",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":1110,
         "weapon_img": "/weapons/he1.png"
     },
@@ -1404,7 +2449,13 @@
         "name": "LR 7.62",
         "type": "Sniper",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":5,
         "weapon_img": "/weapons/lr762.webp"
     },
@@ -1412,7 +2463,13 @@
         "name": "GS45",
         "type": "PISTOL",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":52,
         "weapon_img": "/weapons/gs45.avif"
     },
@@ -1420,7 +2477,13 @@
         "name": "9mm PM",
         "type": "PISTOL",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":51,
         "weapon_img": "/weapons/9mmpm.avif"
     },
@@ -1428,7 +2491,13 @@
         "name": "AMR MOD 4",
         "type": "Sniper",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":10,
         "weapon_img": "/weapons/amrmod4.webp"
     },
@@ -1436,7 +2505,13 @@
         "name": "GREKHOVA",
         "type": "PISTOL",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":12,
         "weapon_img": "/weapons/grekhova.avif"
     },
@@ -1444,7 +2519,13 @@
         "name": "Cigma 2B",
         "type": "LAUNCHER",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":10000,
         "weapon_img": "/weapons/cigma2b.avif"
     },
@@ -1452,7 +2533,13 @@
         "name": "KNIFE",
         "type": "MELEE",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":1000,
         "weapon_img": "/weapons/knife.avif"
     },
@@ -1460,7 +2547,13 @@
         "name": "Nail Gun",
         "type": "SPECIAL",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":1000,
         "weapon_img": "/weapons/nailgun.avif"
     },
@@ -1468,7 +2561,13 @@
         "name": "LADRA",
         "type": "SMG",
         "game": "bo6",
-        "attachments": [],
+        "attachments": [
+          { "name": "NYDAR MODEL 2023", "category": "Optic" },
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "category": "Muzzle" },
+          { "name": "IG-K30 406MM", "category": "Barrel" },
+          { "name": "60 ROUND MAG", "category": "Magazine" },
+          { "name": "5.45 HIGH GRAIN", "category": "Ammunition" }    
+        ],
         "rank":3,
         "weapon_img": "/weapons/ladra.avif"
     }
