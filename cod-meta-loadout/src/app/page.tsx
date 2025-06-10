@@ -31,7 +31,7 @@ export default function Home() {
 
   return (
     <div className="flex flex-col min-h-screen font-[family-name:var(--font-geist-sans)] animated-gradient">
-
+      <SpeedInsights/>
       {/* Header */}
       <header className="relative h-40 w-full flex items-center justify-center text-white text-4xl font-bold shadow-lg">
         <Image
