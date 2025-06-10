@@ -68,7 +68,7 @@ export default function Home() {
             return (
               <div
                 key={index}
-                className="bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 text-white shadow-md rounded-lg p-4 w-full flex flex-col gap-2"
+                className="bg-gradient-to-r from-orange-500 via-orange-500 to-red-500 text-white shadow-md rounded-lg p-4 w-full flex flex-col gap-2"
               >
                 <div className="flex flex-col sm:flex-row gap-4 items-center justify-between w-full">
                   <div>
