@@ -29,7 +29,8 @@ export default function Home() {
     .sort((a, b) => a.rank - b.rank);
 
   return (
-    <div className="flex flex-col min-h-screen font-[family-name:var(--font-geist-sans)]">
+    <div className="flex flex-col min-h-screen font-[family-name:var(--font-geist-sans)] animated-gradient">
+
       {/* Header */}
       <header className="relative h-40 w-full flex items-center justify-center text-white text-4xl font-bold shadow-lg">
         <Image
@@ -41,7 +42,7 @@ export default function Home() {
       </header>
 
       {/* Navbar */}
-      <nav className="bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 shadow-md sticky top-0 z-10">
+      <nav className="bg-gradient-to-r from-red-orange via-red-500  shadow-md sticky top-0 z-10">
         <ul className="flex whitespace-nowrap overflow-x-auto no-scrollbar justify-start sm:justify-center gap-4 p-4 text-lg font-medium text-white">
           {weaponTypes.map((type) => (
             <li key={type}>
