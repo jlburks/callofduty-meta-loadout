@@ -46,7 +46,24 @@ body {
 }
 
 .animated-gradient {
-  background: linear-gradient(-45deg, #857c7c, #ca2a2a, #000000, #000000);
-  background-size: 400% 400%;
-  animation: gradientShift 01s ease infinite;
+  position: relative;
+  background-image:
+    radial-gradient(circle at center, rgba(247, 19, 19, 0.4) 0%, rgba(0, 0, 0, 0.8) 60%, rgba(0, 0, 0, 1) 100%),
+    url('/backgrounds/warzone.jpg'); /* Replace with your image path */
+  background-size: 150% 150%, cover;
+  background-position: center;
+  animation: rippleEffect 5s ease-in-out infinite;
+  background-blend-mode: overlay;
+}
+
+@keyframes rippleEffect {
+  0% {
+    background-size: 100% 100%, cover;
+  }
+  50% {
+    background-size: 200% 200%, cover;
+  }
+  100% {
+    background-size: 100% 100%, cover;
+  }
 }
