@@ -48,7 +48,7 @@ body {
 .animated-gradient {
   position: relative;
   background-image:
-    radial-gradient(circle at center, rgba(247, 19, 19, 0.4) 0%, rgba(0, 0, 0, 0.8) 60%, rgba(0, 0, 0, 1) 100%),
+    radial-gradient(circle at center, rgba(209, 125, 15, 0.4) 0%, rgba(0, 0, 0, 0.8) 60%, rgba(0, 0, 0, 1) 100%),
     url('/backgrounds/warzone.jpg'); /* Replace with your image path */
   background-size: 150% 150%, cover;
   background-position: center;

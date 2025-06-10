@@ -3,6 +3,7 @@
 import Image from "next/image";
 import { useState } from "react";
 import weapons from "../data/warzone_weapons.json";
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 const weaponTypes = [
   "Assault Rifle",
