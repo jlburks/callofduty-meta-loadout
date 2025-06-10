@@ -138,8 +138,29 @@ export default function Home() {
           })}
         </div>
       </main>
+      {/* Promoted Product */}
+<section className="max-w-2xl w-full p-4 bg-gray-800 rounded-lg text-white text-center mx-auto mb-8">
+  <h3 className="text-2xl font-semibold mb-4">Recommended Gaming Headphones</h3>
+  <a
+    href="https://www.amazon.com/ZIUMIER-Microphone-Surround-Over-Ear-Headphones/dp/B07ZF8T63K?tag=callofduty2me-20"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="inline-block"
+  >
+    <img
+      src="https://m.media-amazon.com/images/I/71nh1VxLzuL._AC_SX569_.jpg" 
+      alt="ZIUMIER Gaming Headphones"
+      className="mx-auto mb-4 rounded-md shadow-lg"
+      width={300}
+    />
+    <span className="block text-red-400 hover:underline">
+      Check it out on Amazon
+    </span>
+  </a>
+</section>
 
-      {/* Footer */}
+
+      {/* Footer
       <footer className="bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 shadow-md w-full p-4 flex justify-center items-center text-white">
         <a
           className="flex items-center gap-2 hover:underline hover:underline-offset-4"
@@ -156,7 +177,7 @@ export default function Home() {
           />
           Jaren Burks
         </a>
-      </footer>
+      </footer> */}
     </div>
   );
 }
