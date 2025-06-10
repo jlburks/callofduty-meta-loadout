@@ -4,6 +4,7 @@ import Image from "next/image";
 import { useState } from "react";
 import weapons from "../data/warzone_weapons.json";
 import { SpeedInsights } from "@vercel/speed-insights/next"
+import { Analytics } from "@vercel/analytics/next"
 
 const weaponTypes = [
   "Assault Rifle",
@@ -32,6 +33,7 @@ export default function Home() {
   return (
     <div className="flex flex-col min-h-screen font-[family-name:var(--font-geist-sans)] animated-gradient">
       <SpeedInsights/>
+      <Analytics/>
       {/* Header */}
       <header className="relative h-40 w-full flex items-center justify-center text-white text-4xl font-bold shadow-lg">
         <Image
