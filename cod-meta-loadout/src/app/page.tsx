@@ -167,7 +167,12 @@ export default function Home() {
               width={1000}
               
             />
-            <span className="text-red-400 text-sm hover:underline">Buy on Amazon</span>
+            <span className="text-orange-400 text-sm hover:underline">Buy on Amazon</span>
+            <img
+              src="amazonlogo.png"
+              alt="Amazon logo"
+              className="mx-auto mt-1 w-20"
+            />
           </a>
         </div>
       )}
