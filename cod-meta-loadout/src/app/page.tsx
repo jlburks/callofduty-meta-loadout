@@ -3,8 +3,8 @@
 import Image from "next/image";
 import { useState } from "react";
 import weapons from "../data/warzone_weapons.json";
-import { SpeedInsights } from "@vercel/speed-insights/next"
-import { Analytics } from "@vercel/analytics/next"
+import { SpeedInsights } from "@vercel/speed-insights/next";
+import { Analytics } from "@vercel/analytics/next";
 
 const weaponTypes = [
   "Assault Rifle",
@@ -19,6 +19,7 @@ const weaponTypes = [
 export default function Home() {
   const [selectedType, setSelectedType] = useState("Assault Rifle");
   const [expandedWeaponIndexes, setExpandedWeaponIndexes] = useState<number[]>([]);
+  const [showAd, setShowAd] = useState(true); // Toggle ad box
 
   const toggleDropdown = (index: number) => {
     setExpandedWeaponIndexes((prev) =>
@@ -32,8 +33,9 @@ export default function Home() {
 
   return (
     <div className="flex flex-col min-h-screen font-[family-name:var(--font-geist-sans)] animated-gradient">
-      <SpeedInsights/>
-      <Analytics/>
+      <SpeedInsights />
+      <Analytics />
+
       {/* Header */}
       <header className="relative h-40 w-full flex items-center justify-center text-white text-4xl font-bold shadow-lg">
         <Image
@@ -45,7 +47,7 @@ export default function Home() {
       </header>
 
       {/* Navbar */}
-      <nav className="bg-gradient-to-r from-red-orange via-red-500  shadow-md sticky top-0 z-10">
+      <nav className="bg-gradient-to-r from-red-orange via-red-500 shadow-md sticky top-0 z-10">
         <ul className="flex whitespace-nowrap overflow-x-auto no-scrollbar justify-start sm:justify-center gap-4 p-4 text-lg font-medium text-white">
           {weaponTypes.map((type) => (
             <li key={type}>
@@ -108,7 +110,6 @@ export default function Home() {
                         attachment: { category?: string; name?: string } | string,
                         i: number
                       ) => {
-                        // Determine display text
                         if (typeof attachment === "string") {
                           return <li key={i}>{attachment}</li>;
                         } else {
@@ -138,46 +139,37 @@ export default function Home() {
           })}
         </div>
       </main>
-      {/* Promoted Product */}
-<section className="max-w-2xl w-full p-4 bg-gray-800 rounded-lg text-white text-center mx-auto mb-8">
-  <h3 className="text-2xl font-semibold mb-4">Recommended Gaming Headphones</h3>
-  <a
-    href="https://www.amazon.com/ZIUMIER-Microphone-Surround-Over-Ear-Headphones/dp/B07ZF8T63K?tag=callofduty2me-20"
-    target="_blank"
-    rel="noopener noreferrer"
-    className="inline-block"
-  >
-    <img
-      src="https://m.media-amazon.com/images/I/71nh1VxLzuL._AC_SX569_.jpg" 
-      alt="ZIUMIER Gaming Headphones"
-      className="mx-auto mb-4 rounded-md shadow-lg"
-      width={300}
-    />
-    <span className="block text-red-400 hover:underline">
-      Check it out on Amazon
-    </span>
-  </a>
-</section>
 
-
-      {/* Footer
-      <footer className="bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 shadow-md w-full p-4 flex justify-center items-center text-white">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://www.linkedin.com/in/jaren-burks-7b961323b/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/LinkedIn.png"
-            alt="LinkedIn logo"
-            width={16}
-            height={16}
-          />
-          Jaren Burks
-        </a>
-      </footer> */}
+      {/* Floating Affiliate Product (with close button) */}
+      {showAd && (
+        <div className="hidden sm:block fixed right-4 top-1/2 transform -translate-y-1/2 z-20 bg-gray-900 text-white p-3 rounded-lg shadow-lg w-60">
+          <div className="flex justify-between items-center mb-2">
+            <h3 className="text-sm font-semibold">🎧 Recommended</h3>
+            <button
+              onClick={() => setShowAd(false)}
+              className="text-white text-xs px-2 hover:text-red-400"
+              aria-label="Close ad"
+            >
+              ✕
+            </button>
+          </div>
+          <a
+            href="https://www.amazon.com/Razer-BlackShark-V2-Gaming-Headset/dp/B086PKMZ21?crid=1L8KEYVFR613D&dib=eyJ2IjoiMSJ9.zHoOmh6S7kPeAkWr3bmSFimcZAw3Pp4AqAj53wS5if_YzfHdUUWYmwls6DniHcawnd8HoD-QsnIdtoVAEjUoKJRrmzlHWeydB6o0vz1fHo9QQkWOfrnT4HNBkWYh8GcgtGHw_F66mcTS6ODshkLBnikLZsX73nxUdbE3OOcIADekEJt7T6o9DZSYpa0vIhJR9SJXQ62YCFlFUOIwrANHf1H1sRXofqpYKUZ8evv0gGQ.URPxhN8KXNiHX9i0Ed8ojrJ6eFCoBDmUGfWPFCwu_lE&dib_tag=se&keywords=gaming%2Bheadphones&qid=1749614751&sprefix=gaming%2Bheadphone%2Caps%2C138&sr=8-4&th=1&linkCode=ll1&tag=callofduty2me-20&linkId=d2d2913fbc354186fc99fc11682f45d0&language=en_US&ref_=as_li_ss_tl"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="block text-center"
+          >
+            <img
+              src="https://m.media-amazon.com/images/I/51FRJHB7XOL._AC_SX569_.jpg"
+              alt="Razer BlackShark V2 X Gaming Headset"
+              className="mx-auto rounded-md mb-2"
+              width={1000}
+              
+            />
+            <span className="text-red-400 text-sm hover:underline">Buy on Amazon</span>
+          </a>
+        </div>
+      )}
     </div>
   );
 }
