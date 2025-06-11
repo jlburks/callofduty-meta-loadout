@@ -142,7 +142,8 @@ export default function Home() {
 
       {/* Floating Affiliate Product (with close button) */}
       {showAd && (
-        <div className="hidden sm:block fixed right-4 top-1/2 transform -translate-y-1/2 z-20 bg-gray-900 text-white p-3 rounded-lg shadow-lg w-60">
+        <div className="fixed right-2 bottom-4 sm:right-4 sm:top-1/2 sm:transform sm:-translate-y-1/2 z-20 bg-gray-900 text-white p-3 rounded-lg shadow-lg w-60 sm:w-60 w-11/12">
+
           <div className="flex justify-between items-center mb-2">
             <h3 className="text-sm font-semibold">🎧 Recommended</h3>
             <button
